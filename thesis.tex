@@ -1,10 +1,10 @@
 \documentclass[openright,oneside,a4paper,english,12pt]{book}
-\newcommand{\dir}{/Users/s0784966/Desktop/Test}
+\newcommand{\dir}{/Users/s0784966/Dropbox/Thesis}
 
-\input{/Users/s0784966/Desktop/Test/common/packages.tex}
+\input{/Users/s0784966/Dropbox/Thesis/common/packages.tex}
 
 %% some handy macros
-\input{/Users/s0784966/Desktop/Test/common/definitions.tex}
+\input{/Users/s0784966/Dropbox/Thesis/common/definitions.tex}
 
 %========================= ALTERATIONS ========================= 
 
@@ -24,6 +24,8 @@
 %\cfoot{\thepage}
 %\pagestyle{fancy}     
 
+\linespread{2}
+\setlength{\parindent}{1cm} % Default is 15pt.
 
 \begin{document}
 
@@ -33,8 +35,9 @@
 % Have Roman numeral for the frontispiece
 \pagenumbering{roman} 
 
- 
-%\input{\dir/Preface/acknowledgements.tex}
+%\input{\dir/Preface/dedication.tex} 
+\input{\dir/Preface/acknowledgements.tex}
+\input{\dir/Preface/publications.tex}
 
 \mainmatter
 \renewcommand{\contentsname}{Table of Contents}
@@ -47,5 +50,11 @@
 \input{\dir/chapter1/Introduction.tex}
 % Boot up the Chapter 2: Recombination file
 \input{\dir/chapter2/recombinationChapter.tex}
+% Boot up the Chapter 3: Introduction file
+\input{\dir/chapter3/simulationChapter.tex}
+% Boot up the Chapter 4: Trough Fitting file
+\input{\dir/chapter4/troughFittingChapter.tex}
+% Boot up the Chapter 5: Overall discussion
+\input{\dir/chapter5/Discussion.tex}
 
 \end{document}
