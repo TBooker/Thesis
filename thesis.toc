@@ -1,0 +1,27 @@
+\select@language {english}
+\contentsline {chapter}{Acknowledgements}{i}
+\contentsline {chapter}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {1.1}Using models of selective sweeps to estimate positive selection parameters}{2}
+\contentsline {subsection}{\numberline {1.1.1}The Correlation Between Diversity and the Rate of Recombination}{3}
+\contentsline {subsection}{\numberline {1.1.2}Correlation Between Neutral Diversity and Non-Neutral Divergence}{3}
+\contentsline {subsection}{\numberline {1.1.3} Patterns of Diversity Around the Targets of Selection}{4}
+\contentsline {section}{\numberline {1.2}Fitting genome wide patterns}{5}
+\contentsline {chapter}{\numberline {2}The recombination landscape in wild house mice inferred using population genomic data}{7}
+\contentsline {section}{\numberline {2.1}Abstract}{7}
+\contentsline {section}{\numberline {2.2}Introduction}{8}
+\contentsline {section}{\numberline {2.3}Materials and Methods}{10}
+\contentsline {subsection}{\numberline {2.3.1}Polymorphism data for \emph {Mus musculus castaneus}}{10}
+\contentsline {subsection}{\numberline {2.3.2}Inferring phase and estimating switch error rates}{11}
+\contentsline {subsection}{\numberline {2.3.3}Estimating recombination maps and validation of the approach}{12}
+\contentsline {subsection}{\numberline {2.3.4}Recombination rate estimation for \emph {\emph {M. m. castaneus}}}{13}
+\contentsline {subsection}{\numberline {2.3.5}Broad scale comparison to previously published maps}{14}
+\contentsline {subsection}{\numberline {2.3.6}Fine-scale recombination rate variation in wild \emph {M. m. castaneus}}{16}
+\contentsline {subsection}{\numberline {2.3.7}Examining the correlation between nucleotide diversity and recombination rate}{17}
+\contentsline {section}{\numberline {2.4}Results}{18}
+\contentsline {subsection}{\numberline {2.4.1}Phasing SNPs and estimating the switch error rate}{18}
+\contentsline {subsection}{\numberline {2.4.2}Simulations to validate LDhelmet for the population sample of M. m. castaneus}{18}
+\contentsline {subsection}{\numberline {2.4.3}Recombination rates in the M. m. castaneus genome}{18}
+\contentsline {subsection}{\numberline {2.4.4}Comparison of the M. m. castaneus map to maps constructed using inbred lines}{19}
+\contentsline {subsection}{\numberline {2.4.5}Analysis of fine-scale recombination rates in wild M. m. castaneus}{20}
+\contentsline {subsection}{\numberline {2.4.6}Correlations between recombination rate and properties of protein coding genes in M. m. castaneus}{21}
+\contentsline {section}{\numberline {2.5}Discussion}{21}

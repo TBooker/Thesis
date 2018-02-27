@@ -1,0 +1,51 @@
+\documentclass[openright,oneside,a4paper,english,12pt]{book}
+\newcommand{\dir}{/Users/s0784966/Desktop/Test}
+
+\input{/Users/s0784966/Desktop/Test/common/packages.tex}
+
+%% some handy macros
+\input{/Users/s0784966/Desktop/Test/common/definitions.tex}
+
+%========================= ALTERATIONS ========================= 
+
+%Paragraphs
+\setlength{\parindent}{0em}
+\setlength{\parskip}{\baselineskip}
+
+%Alternative methods
+%\lefthyphenmin=63
+%\righthyphenmin=63
+%\hyphenpenalty=10000
+\makeatletter
+\renewcommand{\frontmatter}{\cleardoublepage\@mainmatterfalse}
+\renewcommand{\mainmatter}{\cleardoublepage\@mainmattertrue}
+\makeatother
+%\fancyhf{}
+%\cfoot{\thepage}
+%\pagestyle{fancy}     
+
+
+\begin{document}
+
+\frontmatter
+
+\input{\dir/Preface/titlePage.tex}
+% Have Roman numeral for the frontispiece
+\pagenumbering{roman} 
+
+ 
+\input{\dir/Preface/acknowledgements.tex}
+
+\mainmatter
+\renewcommand{\contentsname}{Table of Contents}
+\tableofcontents
+
+% Have arabic numerals for the actual meat
+\pagenumbering{arabic} 
+
+% Boot up the Chapter 1: Introduction file
+\input{\dir/chapter1/Introduction.tex}
+% Boot up the Chapter 2: Recombination file
+\input{\dir/chapter2/recombinationChapter.tex}
+
+\end{document}
