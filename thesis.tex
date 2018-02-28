@@ -18,30 +18,32 @@
 %\hyphenpenalty=10000
 \makeatletter
 \renewcommand{\frontmatter}{\cleardoublepage\@mainmatterfalse}
-\renewcommand{\mainmatter}{\cleardoublepage\@mainmattertrue}
-\makeatother
-%\fancyhf{}
-%\cfoot{\thepage}
-%\pagestyle{fancy}     
+\renewcommand{\mainmatter}{\cleardoublpage\@mainmattertrue}
+\makeatother  
 
-\linespread{2}
 \setlength{\parindent}{1cm} % Default is 15pt.
 
+% This sets the options for table and figure captions
+\usepackage[font=small,labelfont=bf]{caption}
+
 \begin{document}
-
-\frontmatter
-
+%\frontmatter
 \input{\dir/Preface/titlePage.tex}
 % Have Roman numeral for the frontispiece
 \pagenumbering{roman} 
 
 %\input{\dir/Preface/dedication.tex} 
-\input{\dir/Preface/acknowledgements.tex}
+%\input{\dir/Preface/acknowledgements.tex}
 \input{\dir/Preface/publications.tex}
-
-\mainmatter
-\renewcommand{\contentsname}{Table of Contents}
 \tableofcontents
+\listoffigures
+\listoftables
+%\noexpand
+%\mainmatter
+
+
+\renewcommand{\contentsname}{Table of Contents}
+
 
 % Have arabic numerals for the actual meat
 \pagenumbering{arabic} 
