@@ -2,20 +2,23 @@
 \newcommand{\dir}{/Users/s0784966/Dropbox/Thesis}
 
 \input{/Users/s0784966/Dropbox/Thesis/common/packages.tex}
+\usepackage[toc,page]{appendix}
 
 %% some handy macros
 \input{/Users/s0784966/Dropbox/Thesis/common/definitions.tex}
 
 %========================= ALTERATIONS ========================= 
 
+
 %Paragraphs
 \setlength{\parindent}{0em}
 \setlength{\parskip}{\baselineskip}
 
+
 %Alternative methods
 %\lefthyphenmin=63
 %\righthyphenmin=63
-%\hyphenpenalty=10000
+\hyphenpenalty=10000
 \makeatletter
 \renewcommand{\frontmatter}{\cleardoublepage\@mainmatterfalse}
 \renewcommand{\mainmatter}{\cleardoublpage\@mainmattertrue}
@@ -28,21 +31,29 @@
 
 \begin{document}
 %\frontmatter
+
 \input{\dir/Preface/titlePage.tex}
+
+
 % Have Roman numeral for the frontispiece
 \pagenumbering{roman} 
 
-%\input{\dir/Preface/dedication.tex} 
-%\input{\dir/Preface/acknowledgements.tex}
+\input{\dir/Preface/dedication.tex} 
+\input{\dir/Preface/acknowledgements.tex}
 \input{\dir/Preface/publications.tex}
+
+
+
+%\addcontentsline{toc}{chapter}{\listfigurename}
 \tableofcontents
+
 \listoffigures
 \listoftables
-%\noexpand
+\renewcommand{\contentsname}{Table of Contents}
+
 %\mainmatter
 
 
-\renewcommand{\contentsname}{Table of Contents}
 
 
 % Have arabic numerals for the actual meat
@@ -59,4 +70,16 @@
 % Boot up the Chapter 5: Overall discussion
 \input{\dir/chapter5/Discussion.tex}
 
+% Here are the appendices. I think it might be a lot cleaner to have them as a separate file and to import that into the document
+\begin{appendices}
+  \chapter{Booker \emph{et al.} 2017 - BMC Biology}
+	  \includepdf[pages=-, scale = 0.8 , pagecommand={\pagestyle{fancy}}]{/Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.pdf}
+
+  \chapter{Recombination in wild mice}
+	  \section{Supplementary Material}
+	  \input{\dir/chapter2Appendix/chapter2appendix.tex}
+	  \section{Booker \emph{et al.} 2017 - Genetics}
+	  Included here is the content of Chapter 2 as published in Genetics.
+	  \includepdf[pages=-, scale = 0.8 , pagecommand={\pagestyle{fancy}}]{/Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.pdf}
+\end{appendices}
 \end{document}
