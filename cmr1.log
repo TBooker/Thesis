@@ -1,0 +1,80 @@
+This is METAFONT, Version 2.7182818 (TeX Live 2014) (preloaded base=mf 2014.12.12)  5 APR 2018 14:56
+**\mode:=ljfour; mag:=1; nonstopmode; input cmr1
+
+(/Users/s0784966/Library/texlive/2014/texmf-var/fonts/source/public/sauter/cmr1
+.mf (/usr/local/texlive/2014/texmf-dist/fonts/source/public/sauter/b-cmr.mf
+(/usr/local/texlive/2014/texmf-dist/fonts/source/public/cm/cmbase.mf)
+(/usr/local/texlive/2014/texmf-dist/fonts/source/public/sauter/c-cmr.mf)
+(/usr/local/texlive/2014/texmf-dist/fonts/source/public/cm/roman.mf
+(/usr/local/texlive/2014/texmf-dist/fonts/source/public/cm/romanu.mf [65]
+[66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80]
+[81] [82]
+> 0 WSW 1 SSW WSW 2 (WNW NNW) NNE 3 (ENE) ESE ENE NNE 0 (NNW WNW)
+! Strange path (turning number is zero).
+<to be read again> 
+                   ;
+l.512 ...stroke z1e{x2-x1,10(y2-y1)}....{left}z2e;
+                                                    % upper arc
+The path doesn't have a counterclockwise orientation,
+so I'll probably have trouble drawing it.
+(See Chapter 27 of The METAFONTbook for more help.)
+
+[83] [84] [85] [86] [87] [88] [89] [90])
+(/usr/local/texlive/2014/texmf-dist/fonts/source/public/cm/romanl.mf [97]
+[98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109] [110]
+[111] [112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122])
+(/usr/local/texlive/2014/texmf-dist/fonts/source/public/cm/greeku.mf [0]
+[1] [2] [3] [4] [5] [6] [7] [8] [9] [10])
+(/usr/local/texlive/2014/texmf-dist/fonts/source/public/cm/romand.mf [48]
+[49]
+> 0 WNW 1 NNW 2 (NNE) ENE 3 (ESE) SSE ESE 0 (ENE NNE NNW)
+! Strange path (turning number is zero).
+<to be read again> 
+                   ;
+bulb->...FFIX0)r-x(SUFFIX1)r,0}z(SUFFIX0)r--cycle;
+                                                  path_.r:=z(SUFFIX2)l{0,y(S...
+l.57 ...2l)=whatever[z1l,z2r]; x2l:=x; bulb(2,1,0)
+                                                  ;  % bulb and arc
+The path doesn't have a counterclockwise orientation,
+so I'll probably have trouble drawing it.
+(See Chapter 27 of The METAFONTbook for more help.)
+
+[50] [51]
+! Square root of -0.95615 has been replaced by 0.
+diag_ratio->...2)-bb_*bb_;((EXPR2)*(cc_++sqrt.aa_)
+                                                  -bb_*cc_)/aa_.endgroup
+l.125 ...ha=diag_ratio(1,diag_stem,y3-y4l,x3r-x4l)
+                                                  ;
+Since I don't take square roots of negative numbers,
+I'm zeroing this one. Proceed, with fingers crossed.
+
+[52] [53] [54]
+> 0 ENE 1 2 NNE NNW WNW WSW SSW 3 WSW 4 (WNW NNW) NNE ENE ESE SSE SSW WSW 5 0 (
+SSW SSE ESE)
+! Strange path (turning number is zero).
+<to be read again> 
+                   ;
+l.241  filldraw stroke z4e---z5e...{down}z6e;
+                                              fi  % stroke
+The path doesn't have a counterclockwise orientation,
+so I'll probably have trouble drawing it.
+(See Chapter 27 of The METAFONTbook for more help.)
+
+[55] [56] [57])
+(/usr/local/texlive/2014/texmf-dist/fonts/source/public/cm/romanp.mf [36]
+[38] [63] [15])
+(/usr/local/texlive/2014/texmf-dist/fonts/source/public/cm/romspl.mf [16]
+[17] [25] [26] [27] [28])
+(/usr/local/texlive/2014/texmf-dist/fonts/source/public/cm/romspu.mf [29]
+[30] [31]) (/usr/local/texlive/2014/texmf-dist/fonts/source/public/cm/punct.mf
+[33] [14] [35] [37] [39] [40] [41] [42] [43] [44] [46] [47] [58] [59] [61]
+[64] [91] [93] [96])
+(/usr/local/texlive/2014/texmf-dist/fonts/source/public/cm/accent.mf [18]
+[19] [20] [21] [22] [23] [24] [32] [94] [95] [125] [126] [127])
+(/usr/local/texlive/2014/texmf-dist/fonts/source/public/cm/comlig.mf [34]
+[45] [92] [123] [124])
+(/usr/local/texlive/2014/texmf-dist/fonts/source/public/cm/romsub.mf
+(/usr/local/texlive/2014/texmf-dist/fonts/source/public/cm/sym.mf [12] [11]
+[60] [62]) [13]) ) ) )
+Font metrics written on cmr1.tfm.
+Output written on cmr1.600gf (128 characters, 4288 bytes).

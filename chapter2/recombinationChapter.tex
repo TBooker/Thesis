@@ -3,7 +3,6 @@
 
 \emph{This chapter has been published as a paper in Genetics: \\CITATION\\That paper is reproduced here.}
 \section{Abstract}
- 
 Characterizing variation in the rate of recombination across the genome is important for understanding many evolutionary processes. The landscape of recombination has been studied previously in the house mouse, \emph{Mus musculus}, and it is known that the different sub-species exhibit different suites of recombination hotspots. However, it is not established whether broad-scale variation in the rate of recombination is conserved between the sub-species or whether hotspots identified in laboratory strains reflect the diversity of hotspots locations in natural populations. In this study, we construct a fine-scale recombination map for the Eastern house mouse sub-species, \emph{M. m. castaneus}, using 10 individuals sampled from its ancestral range. We perform simulations to assess how accurately recombination rates are inferred considering phasing errors. We use a novel approach to quantify phase error, which we estimate to affect 0.5\% of heterozygous SNPs in our data. We use LDhelmet to construct recombination maps for each autosome. We find that the spatial distribution of recombination rate is strongly positively correlated between our castaneus map and a map constructed using inbred lines of mice derived predominantly from \emph{M. m. domesticus}. However, despite this high similarity we find that potential recombination hotspots in wild mice show little overlap with the locations of double-strand breaks in wild-derived strains of laboratory mice, though the greatest overlap is with a strain derived from wild \emph{M. m. castaneus}. Finally, we also find that levels of genetic diversity in \emph{M. m. castaneus} are positively correlated with the rate of recombination, consistent with pervasive natural selection acting in the genome. Our study suggests that recombination rate variation is conserved at broad scales between two sub-species of \emph{M. musculus}, though not at fine scales.
 
 \section{Introduction}
@@ -41,7 +40,7 @@ Switch error rates in Shapeit2 are sensitive both to coverage and quality (per g
  
         	Errors in phase inference, discussed above, may bias our estimates of the recombination rate, since they appear to break apart patterns of LD. We assessed the impact of these errors on recombination rate inference by incorporating them into the simulated data at a rate estimated from the pseudo-female individuals. For each of the 10 individuals drawn from the simulated populations, switch errors were randomly introduced at heterozygous positions at the rate estimated using the chosen SNP filter set (see Results). We then inferred the recombination rates, as above, for the simulated population using these error-prone data. We assessed the effect of switch errors on recombination rate inference by comparing estimates based on the simulated data both with and without switch errors. It is worth noting that there is the potential for switch errors to undo crossing-over events, reducing inferred recombination rates, if they affect heterozygous SNPs that are breakpoints of recombinant regions. 
 
-\subsection{Recombination rate estimation for \emph{\emph{M. m. castaneus}}}
+\subsection{Recombination rate estimation for \emph{M. m. castaneus}}
         	
         We used LDhelmet (Chan et al. 2012), to estimate recombination rates for each of the \emph{M. m. castaneus} autosomes. It is well established that autosomal recombination rates differ between the sexes in \emph{M. musculus} (Cox et al. 2009; Liu et al. 2014). A drawback of LD-based approaches is that they give sex-averaged recombination rates. 
  
@@ -138,11 +137,10 @@ We compared the locations of our potential recombination hotspots to the positio
 \subsection{Correlations between recombination rate and properties of protein coding genes in \emph{M. m. castaneus}}
 
 	By examining the correlation between genetic diversity and recombination rate, we determined whether our map captures variation in $N_e$ across the genome. We found that recombination rates at autosomal protein coding genes are significantly and positively correlated with levels of neutral genetic diversity, at all sites regardless of base context and at non-CpG-prone sites only (Table 2). Divergence from the rat at 4-fold sites was also significantly and positively correlated with recombination rate when analyzing all sites. However, for non-CpG-prone sites we found a small negative correlation (Table 2). There was also a significant and positive relationship between recombination rate and a gene’s GC content ($\tau$ = 0.125, p $<$ 2.2 x $10^{-16}$). The correlation between recombination rate and neutral diversity divided by divergence from the rat was both positive and significant, regardless of base context (Table 2; Figure S6). This indicates that natural selection may have a role in reducing diversity via hitchhiking and/or background selection.
+
 \linespread{1}
 \input{/Users/s0784966/Dropbox/Thesis/chapter2/Tables/Table2.tex}
 \linespread{2}
-
-
 
 \section{Discussion}
  

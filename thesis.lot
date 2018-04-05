@@ -1,10 +1,17 @@
 \select@language {english}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {2.1}{\ignorespaces Summary of recombination rates per chromosomes}}{22}
-\contentsline {table}{\numberline {2.2}{\ignorespaces Correlations between recombination rate and genetic diversity}}{26}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Summary of recombination rates per chromosomes}}{26}
+\contentsline {table}{\numberline {2.2}{\ignorespaces Correlations between recombination rate and genetic diversity}}{29}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {table}{\numberline {B.1}{\ignorespaces Summary of recombination rates per chromosomes}}{76}
+\contentsline {table}{\numberline {B.2}{\ignorespaces The normalized mutation rate matrix and stationary distribution of base frequencies estimated with two out-groups, M. famulus and R. norvegicus, using the method described by Chan et al. (2012).\relax }}{77}
+\contentsline {table}{\numberline {B.3}{\ignorespaces The total number of SNPs in the dataset, and the number of SNPs after applying filters.\relax }}{77}
+\contentsline {table}{\numberline {B.4}{\ignorespaces The overlap between the hotspots we identified in M. m. castaneus and the locations of DSB hotspots in wild-derived strains obtained by Smagulova et al. (2016). The corrected overlap is the number of overlapping hotspots, above the null expectation, over the total.\relax }}{79}
