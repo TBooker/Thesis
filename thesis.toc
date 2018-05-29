@@ -1,10 +1,10 @@
-\select@language {english}
+\select@language {american}
 \contentsline {chapter}{Dedication}{i}
-\contentsline {chapter}{Acknowledgements}{iii}
-\contentsline {chapter}{Publications}{v}
-\contentsline {chapter}{Contents}{vii}
-\contentsline {chapter}{List of Figures}{xiii}
-\contentsline {chapter}{List of Tables}{xv}
+\contentsline {chapter}{Acknowledgements}{ii}
+\contentsline {chapter}{Publications}{iv}
+\contentsline {chapter}{Contents}{v}
+\contentsline {chapter}{List of Figures}{x}
+\contentsline {chapter}{List of Tables}{xi}
 \contentsline {chapter}{\numberline {1}Introduction}{3}
 \contentsline {section}{\numberline {1.1}Key concepts}{3}
 \contentsline {subsection}{\numberline {1.1.1}Genetic Drift}{4}
@@ -12,71 +12,71 @@
 \contentsline {subsection}{\numberline {1.1.3}Selection}{4}
 \contentsline {subsection}{\numberline {1.1.4}Migration}{4}
 \contentsline {subsection}{\numberline {1.1.5}Recombination}{4}
-\contentsline {section}{\numberline {1.2}Selective sweep models}{4}
-\contentsline {section}{\numberline {1.3}Using models of selective sweeps to estimate positive selection parameters}{6}
-\contentsline {subsection}{\numberline {1.3.1}Using models of selective sweeps to estimate positive selection parameters}{7}
-\contentsline {subsection}{\numberline {1.3.2}Using models of selective sweeps to estimate positive selection parameters}{8}
+\contentsline {section}{\numberline {1.2}Models of selective sweeps}{4}
+\contentsline {section}{\numberline {1.3}Estimating positive selection parameters}{5}
+\contentsline {subsection}{\numberline {1.3.1}Using models of selective sweeps to estimate positive selection parameters}{6}
+\contentsline {subsection}{\numberline {1.3.2}Using models of selective sweeps to estimate positive selection parameters}{7}
 \contentsline {subsection}{\numberline {1.3.3}Patterns of Diversity Around the Targets of Selection}{9}
 \contentsline {section}{\numberline {1.4}Fitting genome wide patterns}{11}
-\contentsline {chapter}{\numberline {2}The recombination landscape in wild house mice inferred using population genomic data}{13}
-\contentsline {section}{\numberline {2.1}Abstract}{13}
-\contentsline {section}{\numberline {2.2}Introduction}{15}
-\contentsline {section}{\numberline {2.3}Materials and Methods}{18}
-\contentsline {subsection}{\numberline {2.3.1}Polymorphism data for \emph {Mus musculus castaneus}}{18}
-\contentsline {subsection}{\numberline {2.3.2}Inferring phase and estimating switch error rates}{19}
-\contentsline {subsection}{\numberline {2.3.3}Estimating recombination maps and validation of the approach}{21}
-\contentsline {subsection}{\numberline {2.3.4}Recombination rate estimation for \emph {M. m. castaneus}}{23}
-\contentsline {subsection}{\numberline {2.3.5}Broad scale comparison to previously published maps}{25}
-\contentsline {subsection}{\numberline {2.3.6}Fine-scale recombination rate variation in wild \emph {M. m. castaneus}}{27}
-\contentsline {subsection}{\numberline {2.3.7}Examining the correlation between nucleotide diversity and recombination rate}{29}
-\contentsline {section}{\numberline {2.4}Results}{30}
-\contentsline {subsection}{\numberline {2.4.1}Phasing SNPs and estimating the switch error rate}{30}
-\contentsline {subsection}{\numberline {2.4.2}Simulations to validate LDhelmet for the population sample of \emph {M. m. castaneus}}{31}
-\contentsline {subsection}{\numberline {2.4.3}Recombination rates in the \emph {M. m. castaneus genome}}{32}
-\contentsline {subsection}{\numberline {2.4.4}Comparison of the \emph {M. m. castaneus} map to maps constructed using inbred lines}{33}
-\contentsline {subsection}{\numberline {2.4.5}Analysis of fine-scale recombination rates in wild \emph {M. m. castaneus}}{37}
-\contentsline {subsection}{\numberline {2.4.6}Correlations between recombination rate and properties of protein coding genes in \emph {M. m. castaneus}}{38}
-\contentsline {section}{\numberline {2.5}Discussion}{39}
-\contentsline {chapter}{\numberline {3}Understanding the factors that shape patterns of nucleotide diversity in the house mouse genome}{49}
-\contentsline {section}{\numberline {3.1}Abstract}{50}
-\contentsline {section}{\numberline {3.2}Introduction}{51}
-\contentsline {section}{\numberline {3.3}Materials and Methods}{55}
-\contentsline {subsection}{\numberline {3.3.1}Samples and polymorphism data}{55}
-\contentsline {subsection}{\numberline {3.3.2}Functional elements in the murid genome}{56}
-\contentsline {subsection}{\numberline {3.3.3}The site frequency spectrum around functional elements}{57}
-\contentsline {subsection}{\numberline {3.3.4}Overview of DFE-alpha analysis}{58}
-\contentsline {subsection}{\numberline {3.3.5}Inference of the uSFS and the DFE}{59}
-\contentsline {subsection}{\numberline {3.3.6}Two methods for inferring the rates and effects of advantageous mutations based on the uSFS}{61}
-\contentsline {subsection}{\numberline {3.3.7}Forward-in-time simulations modelling background selection and selective sweeps}{62}
-\contentsline {subsubsection}{1. Annotating simulated chromosomes}{63}
-\contentsline {subsubsection}{2. Mutation, recombination and selection in simulations}{64}
-\contentsline {subsubsection}{3. Patterns of diversity around functional elements in simulations}{65}
-\contentsline {subsubsection}{4. Re-inferring the DFE based on simulated population data}{67}
-\contentsline {subsubsection}{5. Patterns of diversity around recent nonsynonymous and synonymous substitutions}{69}
-\contentsline {section}{\numberline {3.4}Results}{70}
-\contentsline {subsection}{\numberline {3.4.1}Inferring the unfolded site frequency spectrum}{70}
-\contentsline {subsection}{\numberline {3.4.2}Estimating the frequencies and strengths of deleterious and advantageous mutations}{72}
-\contentsline {subsection}{\numberline {3.4.3}Forward-in-time population genetic simulations}{74}
-\contentsline {subsection}{\numberline {3.4.4}i) Patterns of nucleotide diversity around functional elements in simulated populations}{75}
-\contentsline {subsubsection}{ii) The site frequency spectrum around functional elements}{77}
-\contentsline {subsubsection}{iii) Rates of substitution in functional elements}{78}
-\contentsline {subsubsection}{iv) Re-estimating the DFE from simulated data}{79}
-\contentsline {subsubsection}{v) Patterns of diversity around sites that have recently experienced a substitution}{80}
-\contentsline {section}{\numberline {3.5}Discussion}{82}
-\contentsline {subsection}{\numberline {3.5.1}Estimating selection parameters based on the uSFS}{82}
-\contentsline {subsection}{\numberline {3.5.2}Patterns of diversity and Tajima’s D around functional elements}{84}
-\contentsline {subsection}{\numberline {3.5.3}Rates of nucleotide substitutions in simulations}{85}
-\contentsline {subsection}{\numberline {3.5.4}Do our results provide evidence for strongly selected advantageous mutations?}{86}
-\contentsline {subsection}{\numberline {3.5.5}Limitations of the study}{88}
-\contentsline {section}{\numberline {3.6}Conclusions}{91}
-\contentsline {chapter}{\numberline {4}Estiamting parameters of selective sweeps from patterns of genetic diversity in house mice}{93}
-\contentsline {chapter}{\numberline {5}Discussion and summary}{95}
-\contentsline {section}{\numberline {5.1}Incorporating the effects of selection at linked sites when analysing the uSFS}{96}
-\contentsline {section}{\numberline {5.2}Adaptation in regulatory and protein-coding portions of the mouse genome}{97}
-\contentsline {section}{\numberline {5.3}Moving beyond mice}{97}
-\contentsline {chapter}{Bibliography}{99}
-\contentsline {chapter}{Appendices}{101}
-\contentsline {chapter}{\numberline {A}Booker \emph {et al.} 2017 - BMC Biology}{103}
-\contentsline {chapter}{\numberline {B}Recombination in wild mice}{115}
-\contentsline {section}{\numberline {B.1}Supplementary Material}{115}
-\contentsline {section}{\numberline {B.2}Booker \emph {et al.} 2017 - Genetics}{121}
+\contentsline {chapter}{\numberline {2}The recombination landscape in wild house mice inferred using population genomic data}{12}
+\contentsline {section}{\numberline {2.1}Abstract}{12}
+\contentsline {section}{\numberline {2.2}Introduction}{13}
+\contentsline {section}{\numberline {2.3}Materials and Methods}{16}
+\contentsline {subsection}{\numberline {2.3.1}Polymorphism data for \emph {Mus musculus castaneus}}{16}
+\contentsline {subsection}{\numberline {2.3.2}Inferring phase and estimating switch error rates}{17}
+\contentsline {subsection}{\numberline {2.3.3}Estimating recombination maps and validation of the approach}{18}
+\contentsline {subsection}{\numberline {2.3.4}Recombination rate estimation for \emph {M. m. castaneus}}{20}
+\contentsline {subsection}{\numberline {2.3.5}Broad scale comparison to previously published maps}{22}
+\contentsline {subsection}{\numberline {2.3.6}Fine-scale recombination rate variation in wild \emph {M. m. castaneus}}{24}
+\contentsline {subsection}{\numberline {2.3.7}Examining the correlation between nucleotide diversity and recombination rate}{25}
+\contentsline {section}{\numberline {2.4}Results}{26}
+\contentsline {subsection}{\numberline {2.4.1}Phasing SNPs and estimating the switch error rate}{26}
+\contentsline {subsection}{\numberline {2.4.2}Simulations to validate LDhelmet for the population sample of \emph {M. m. castaneus}}{27}
+\contentsline {subsection}{\numberline {2.4.3}Recombination rates in the \emph {M. m. castaneus genome}}{27}
+\contentsline {subsection}{\numberline {2.4.4}Comparison of the \emph {M. m. castaneus} map to maps constructed using inbred lines}{31}
+\contentsline {subsection}{\numberline {2.4.5}Analysis of fine-scale recombination rates in wild \emph {M. m. castaneus}}{32}
+\contentsline {subsection}{\numberline {2.4.6}Correlations between recombination rate and properties of protein coding genes in \emph {M. m. castaneus}}{34}
+\contentsline {section}{\numberline {2.5}Discussion}{34}
+\contentsline {chapter}{\numberline {3}Understanding the factors that shape patterns of nucleotide diversity in the house mouse genome}{43}
+\contentsline {section}{\numberline {3.1}Abstract}{44}
+\contentsline {section}{\numberline {3.2}Introduction}{44}
+\contentsline {section}{\numberline {3.3}Materials and Methods}{48}
+\contentsline {subsection}{\numberline {3.3.1}Samples and polymorphism data}{48}
+\contentsline {subsection}{\numberline {3.3.2}Functional elements in the murid genome}{49}
+\contentsline {subsection}{\numberline {3.3.3}The site frequency spectrum around functional elements}{50}
+\contentsline {subsection}{\numberline {3.3.4}Overview of DFE-alpha analysis}{50}
+\contentsline {subsection}{\numberline {3.3.5}Inference of the uSFS and the DFE}{51}
+\contentsline {subsection}{\numberline {3.3.6}Two methods for inferring the rates and effects of advantageous mutations based on the uSFS}{53}
+\contentsline {subsection}{\numberline {3.3.7}Forward-in-time simulations modelling background selection and selective sweeps}{54}
+\contentsline {subsubsection}{1. Annotating simulated chromosomes}{55}
+\contentsline {subsubsection}{2. Mutation, recombination and selection in simulations}{56}
+\contentsline {subsubsection}{3. Patterns of diversity around functional elements in simulations}{57}
+\contentsline {subsubsection}{4. Re-inferring the DFE based on simulated population data}{59}
+\contentsline {subsubsection}{5. Patterns of diversity around recent nonsynonymous and synonymous substitutions}{60}
+\contentsline {section}{\numberline {3.4}Results}{61}
+\contentsline {subsection}{\numberline {3.4.1}Inferring the unfolded site frequency spectrum}{61}
+\contentsline {subsection}{\numberline {3.4.2}Estimating the frequencies and strengths of deleterious and advantageous mutations}{63}
+\contentsline {subsection}{\numberline {3.4.3}Forward-in-time population genetic simulations}{65}
+\contentsline {subsection}{\numberline {3.4.4}i) Patterns of nucleotide diversity around functional elements in simulated populations}{65}
+\contentsline {subsubsection}{ii) The site frequency spectrum around functional elements}{67}
+\contentsline {subsubsection}{iii) Rates of substitution in functional elements}{68}
+\contentsline {subsubsection}{iv) Re-estimating the DFE from simulated data}{69}
+\contentsline {subsubsection}{v) Patterns of diversity around sites that have recently experienced a substitution}{70}
+\contentsline {section}{\numberline {3.5}Discussion}{71}
+\contentsline {subsection}{\numberline {3.5.1}Estimating selection parameters based on the uSFS}{72}
+\contentsline {subsection}{\numberline {3.5.2}Patterns of diversity and Tajima’s D around functional elements}{73}
+\contentsline {subsection}{\numberline {3.5.3}Rates of nucleotide substitutions in simulations}{74}
+\contentsline {subsection}{\numberline {3.5.4}Do our results provide evidence for strongly selected advantageous mutations?}{74}
+\contentsline {subsection}{\numberline {3.5.5}Limitations of the study}{77}
+\contentsline {section}{\numberline {3.6}Conclusions}{79}
+\contentsline {chapter}{\numberline {4}Estiamting parameters of selective sweeps from patterns of genetic diversity in house mice}{80}
+\contentsline {chapter}{\numberline {5}Discussion and summary}{82}
+\contentsline {section}{\numberline {5.1}Incorporating the effects of selection at linked sites when analysing the uSFS}{83}
+\contentsline {section}{\numberline {5.2}Adaptation in regulatory and protein-coding portions of the mouse genome}{84}
+\contentsline {section}{\numberline {5.3}Moving beyond mice}{84}
+\contentsline {chapter}{Bibliography}{85}
+\contentsline {chapter}{Appendices}{90}
+\contentsline {chapter}{\numberline {A}Booker \emph {et al.} 2017 - BMC Biology}{91}
+\contentsline {chapter}{\numberline {B}Recombination in wild mice}{102}
+\contentsline {section}{\numberline {B.1}Supplementary Material}{102}
+\contentsline {section}{\numberline {B.2}Booker \emph {et al.} 2017 - Genetics}{108}

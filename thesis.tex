@@ -1,12 +1,13 @@
-\documentclass[openright,twoside,a4paper,english,12pt]{book}
+\documentclass[openright,oneside,a4paper,english,11pt]{book}
 \newcommand{\dir}{/Users/s0784966/Dropbox/Thesis}
 
 \input{/Users/s0784966/Dropbox/Thesis/common/packages.tex}
-\usepackage[toc,page]{appendix}
-
+%\nobibliography*
 
 %% some handy macros
 \input{/Users/s0784966/Dropbox/Thesis/common/definitions.tex}
+%\addbibresource{\dir/common/MyRefs2.bib}  
+
 
 %========================= ALTERATIONS ========================= 
 
@@ -43,6 +44,7 @@
 % Have Roman numeral for the frontispiece
 
 	\pagenumbering{roman} 
+	\singlespacing
 	\input{\dir/Preface/dedication.tex} 
 	\input{\dir/Preface/acknowledgements.tex}
 	\input{\dir/Preface/publications.tex}
@@ -55,6 +57,8 @@
 
 	\renewcommand{\contentsname}{Table of Contents}
 
+	\doublespacing
+	
 \mainmatter
 	
 	% Boot up the thesis abstract
@@ -72,10 +76,12 @@
 	\input{\dir/chapter4/troughFittingChapter.tex}
 	% Boot up the Chapter 5: Overall discussion
 	\input{\dir/chapter5/Discussion.tex}
+	\bibliographystyle{apalike}
+	\singlespacing
 
-%	\printbibliography{\dir/common/MyRefs} 
+	\bibliography{\dir/common/MyRefs2} 
 
-	\bibliography{\dir/common/MyRefs} 
+	\doublespacing
 
 
 	% Here are the appendices. I think it might be a lot cleaner to have them as a separate file and to import that into the document
