@@ -212,11 +212,11 @@ Elyashiv, E., Sattath, S., Hu, T.~T., Strutsovsky, A., McVicker, G.,
 \newblock A genomic map of the effects of linked selection in drosophila.
 \newblock {\em PLoS Genet}, 12(8):e1006130.
 
-\bibitem[Ewing and Jensen, 2016]{RN241}
-Ewing, G.~B. and Jensen, J.~D. (2016).
-\newblock The consequences of not accounting for background selection in
-  demographic inference.
-\newblock {\em Mol Ecol}, 25(1):135--41.
+\bibitem[Eyre-Walker et~al., 2006]{RN275}
+Eyre-Walker, A., Woolfit, M., and Phelps, T. (2006).
+\newblock The distribution of fitness effects of new deleterious amino acid
+  mutations in humans.
+\newblock {\em Genetics}, 173(2):891--900.
 
 \bibitem[Galtier, 2016]{RN215}
 Galtier, N. (2016).
@@ -241,6 +241,12 @@ Geraldes, A., Basset, P., Smith, K.~L., and Nachman, M.~W. (2011).
 \newblock Higher differentiation among subspecies of the house mouse (mus
   musculus) in genomic regions with low recombination.
 \newblock {\em Mol Ecol}, 20(22):4722--36.
+
+\bibitem[Glemin et~al., 2015]{RN276}
+Glemin, S., Arndt, P.~F., Messer, P.~W., Petrov, D., Galtier, N., and Duret, L.
+  (2015).
+\newblock Quantification of gc-biased gene conversion in the human genome.
+\newblock {\em Genome Res}, 25(8):1215--28.
 
 \bibitem[Grey et~al., 2011]{RN248}
 Grey, C., Barthes, P., Chauveau-Le~Friec, G., Langa, F., Baudat, F., and
@@ -400,11 +406,6 @@ Messer, P.~W. (2013).
 \newblock Slim: simulating evolution with selection and linkage.
 \newblock {\em Genetics}, 194(4):1037--9.
 
-\bibitem[Messer and Petrov, 2013]{RN149}
-Messer, P.~W. and Petrov, D.~A. (2013).
-\newblock Frequent adaptation and the mcdonald-kreitman test.
-\newblock {\em Proc Natl Acad Sci}, 110(21):8615--8620.
-
 \bibitem[Myers et~al., 2010]{RN262}
 Myers, S.~R., Bowden, R., Tumian, A., Bontrop, R.~E., Freeman, C., MacFie,
   T.~S., McVean, G., and Donnelly, P. (2010).
@@ -456,12 +457,6 @@ Schneider, A., Charlesworth, B., Eyre-Walker, A., and Keightley, P.~D. (2011).
 Schrider, D.~R. and Kern, A.~D. (2017).
 \newblock Soft sweeps are the dominant mode of adaptation in the human genome.
 \newblock {\em Mol Biol Evol}.
-
-\bibitem[Schrider et~al., 2016]{RN242}
-Schrider, R.~D., Shanku, G.~A., and Kern, D.~A. (2016).
-\newblock Effects of linked selective sweeps on demographic inference and model
-  selection.
-\newblock {\em Genetics}, (Early Online Access).
 
 \bibitem[Schwartz et~al., 2014]{RN264}
 Schwartz, J.~J., Roach, D.~J., Thomas, J.~H., and Shendure, J. (2014).

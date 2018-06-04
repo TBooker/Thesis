@@ -1,0 +1,27 @@
+\section{Supplementary Methods}
+\subsection{Demographic correction}
+
+DFE-alpha corrects for population demographic history when inferring selection parameters. However, there are several processes that can cause distortions of the uSFS that are not captured using the relatively simple demographic models. In particular, we found that the high frequency elements of the uSFS are not accurately captured under the demographic models implemented in DFE-alpha (Figure S1) (see main text). We make the assumption that the processes causing distortions to the uSFS for neutral sites also affect the selected site uSFS. Under this assumption, we correct the individual elements of the uSFS for selected sites using Equation 7 from \cite{RN321}:
+
+\begin{equation}
+N`_j = \frac{N_j}{1 + \frac{S_j - E_j}{E_j}} for j = 0,1,2 ... n
+\end{equation}
+
+Where $N_j$ is the number of derived mutations present in $j$ copies in the selected site data and $S_j$ and $E_j$ are the observed and expected number of mutations at frequency $j$ in the synonymous site data. Expected numbers of sites come from the fit of a neutral demographic model. Conceptually similar corrections have been applied by \cite{RN354,RN276,RN275}.
+
+\subsection{Divergence correction}
+
+Likelihoods in DFE-alpha are calculated using the allele frequency vector (AFV). The AFV is a vector of counts for mutations at different frequencies, accounting for population size change and selection. In a sample of alleles drawn from a population, polymorphic sites may resemble fixed derived mutations due to sampling effects. For each element of the AFV, we calculate the binomial probability of observing 20 fixed derived alleles (the number of samples in the \textit{M. m. castaneus} data). The expected proportion of spurious fixed derived sites is then subtracted from the observed data and re-distributed to the polymorphic bin using the AFV to apportion out the number of sites appropriately.
+
+We implemented the divergence correction in an iterative fashion as follows. After fitting demographic models or selection models to the uSFS using DFE-alpha, we remove the number of sites from the fixed derived class of sites and redistribute the proportion removed to polymorphism bins using the AFS estimated from the model fitted as described above. The resulting uSFS is then fitted using DFE-alpha as before. This procedure is repeated until the likelihood difference between successive iterations is less than 1.0. In all cases of applying this correction, likelihoods converged within 5 iterations.
+
+\subsection{Ancestral effective population size, Ne-anc – Model B}
+
+Between-species divergence and within-species polymorphism may not reflect the same suite of processes. If, for example, in the time since a focal species split from the outgroup used to estimate the uSFS the DFE for advantageous mutations changed, the between-species divergence at selected sites will reflect a combination of the current DFE and the previous one. Polymorphisms present in the population at the time of sampling, however, may only reflect the most recent DFE. This is because divergence is accumulated over all time since the split of the focal species and the outgroup while polymorphism may only reflect recent processes. If polymorphism and divergence have become decoupled including fixed derived sites when estimating selection parameters may lead to bias. Indeed,  \cite{RN354} showed that accurate estimates of selection parameters can be obtained solely from the polymorphism data in the uSFS. 
+
+We modified the likelihood function of \cite{RN210} by adding an additional parameter, that we call the ancestral effective population size ($N_{e-anc}$ ). $N_{e-anc}$  is fitted solely to the fixed derived class of sites. Fitting $N_{e-anc}$  has the effect of absorbing the contribution of fixed derived sites, so that selection parameters are estimated from polymorphism and invariant ancestral sites only. We define $N_{e-anc}$ size as the population size that, given the current estimates of the selection coefficients, satisfies the number of fixed derived mutations in the sample. We use Kimura’s formula for the fixation probability ($Q$) of a selected allele in a population of size $N$:
+
+\begin{equation}
+Q = \frac{(1 - e^{-s_a})}{1-e^{-2N_es_a}}
+\end{equation}
+where $s$ is the selection coefficient for homozygotes, and Ne is the effective population size. Models that do not incorporate $N_{e-anc}$ are nested within those that do, so likelihood ratio tests can be used for comparisons. Model B in the main text fits the $N_{e-anc}$ parameter alongside the selection parameters. Because polymorphism and divergence could potentially become decoupled by multiple processes, the value of $N_{e-anc}$ is difficult to interpret. 
