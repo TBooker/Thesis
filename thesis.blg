@@ -7,45 +7,45 @@ Warning--I didn't find a database entry for "RN323"
 Warning--I didn't find a database entry for "323"
 Warning--empty title in RN359
 Warning--empty journal in RN359
-You've used 94 entries,
+You've used 95 entries,
             1935 wiz_defined-function locations,
-            1053 strings with 20504 characters,
-and the built_in function-call counts, 43188 in all, are:
-= -- 3944
-> -- 2470
-< -- 33
-+ -- 921
-- -- 880
-* -- 4162
-:= -- 7694
-add.period$ -- 280
-call.type$ -- 94
-change.case$ -- 909
-chr.to.int$ -- 93
-cite$ -- 96
-duplicate$ -- 1306
-empty$ -- 2669
-format.name$ -- 1016
-if$ -- 8208
+            1059 strings with 20600 characters,
+and the built_in function-call counts, 43604 in all, are:
+= -- 3985
+> -- 2483
+< -- 34
++ -- 927
+- -- 884
+* -- 4200
+:= -- 7763
+add.period$ -- 283
+call.type$ -- 95
+change.case$ -- 916
+chr.to.int$ -- 94
+cite$ -- 97
+duplicate$ -- 1320
+empty$ -- 2701
+format.name$ -- 1023
+if$ -- 8291
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 94
-newline$ -- 471
-num.names$ -- 282
-pop$ -- 702
+missing$ -- 95
+newline$ -- 476
+num.names$ -- 285
+pop$ -- 706
 preamble$ -- 1
-purify$ -- 910
+purify$ -- 917
 quote$ -- 0
-skip$ -- 977
+skip$ -- 988
 stack$ -- 0
-substring$ -- 2827
-swap$ -- 93
+substring$ -- 2868
+swap$ -- 94
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 564
+type$ -- 570
 warning$ -- 2
-while$ -- 272
+while$ -- 275
 width$ -- 0
-write$ -- 1216
+write$ -- 1229
 (There were 4 warnings)

@@ -4,16 +4,20 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Selective sweeps and background selection}}{7}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces The effect of switch errors on recombination rate inference}}{28}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Comparison of LD-based and pedigree-based recombination maps}}{31}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Broad-scale correlations between recombiantion maps for \emph {Mus musculus castaneus} and \emph {Mus musculus domesticus}}}{32}
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces The }}{91}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces The effect of switch errors on recombination rate inference}}{32}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Comparison of LD-based and pedigree-based recombination maps}}{35}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Broad-scale correlations between recombiantion maps for \emph {Mus musculus castaneus} and \emph {Mus musculus domesticus}}}{36}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces An example of the uSFSs for deleterious (Gamma dDFE) and advantageous nonsynonymous sites with neutral synonymous sites from simulated populations. Results shown are from simulations modelling strongly or weakly advantageous mutations. The uSFS model the same rate of synonymous substitutions $\gamma _a p_a = 0.1$. Simulated datasets included 10Mbp of exonic sites (3:1 nonsynonymous:synonymous sites).\relax }}{93}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Nucleotide diversity in regions surrounding protein-coding exons and conserved non-coding elements in wild mice. Population-scaled genetic distances($4N_er$) were calculated using either an LD-based recombination map constructed for \textit {M. m. castaneus} or the pedigree based \textit {M. musculus} genetic map constructed by \cite {RN232}. Gene conversion was included assuming either the gene conversion rates \relax }}{96}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces The pattern of scaled nucleotide diversity around protein-coding exons and CNEs in \textit {M. m. castaneus}.\relax }}{97}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {B.2}{\ignorespaces The effect of switch errors on recombination rate inference}}{133}
-\contentsline {figure}{\numberline {B.3}{\ignorespaces The effect of switch errors on recombination rate inference}}{134}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {B.2}{\ignorespaces The effect of switch errors on recombination rate inference}}{138}
+\contentsline {figure}{\numberline {B.3}{\ignorespaces The effect of switch errors on recombination rate inference}}{139}
+\addvspace {10\p@ }
 \addvspace {10\p@ }

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.12.12)  4 JUN 2018 14:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.12.12)  6 JUN 2018 16:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -606,10 +606,7 @@ Package caption Info: threeparttable package is loaded.
 )
 (./thesis.aux
 
-LaTeX Warning: Label `geneConversion' multiply defined.
-
-
-LaTeX Warning: Label `fig:1' multiply defined.
+LaTeX Warning: Label `fig:sfsExample' multiply defined.
 
 
 LaTeX Warning: Label `fig:1' multiply defined.
@@ -789,7 +786,7 @@ eutral
  []
 
 
-Underfull \hbox (badness 1062) in paragraph at lines 34--34
+Underfull \hbox (badness 1062) in paragraph at lines 33--33
  [][] []\OT1/cmr/m/n/10.95 Examining the cor-re-la-tion be-tween nu-cleotide di
 -ver-sity and 
  []
@@ -798,13 +795,7 @@ Underfull \hbox (badness 1062) in paragraph at lines 34--34
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-
-Underfull \hbox (badness 3428) in paragraph at lines 87--87
- [][] []\OT1/cmr/m/n/10.95 Parameters of se-lec-tive sweep ob-tained from pat-t
-erns of 
- []
-
-[9] [10]
+ [9]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
@@ -812,17 +803,23 @@ Missing character: There is no ì in font cmr10!
 \tf@toc=\write4
 \openout4 = `thesis.toc'.
 
- [11] (./thesis.lof)
+ [10] (./thesis.lof
+Underfull \hbox (badness 2343) in paragraph at lines 14--14
+ [][] []\OT1/cmr/m/n/10.95 An ex-am-ple of the uS-FSs for dele-te-ri-ous (Gamma
+ dDFE) and 
+ []
+
+)
 \tf@lof=\write5
 \openout5 = `thesis.lof'.
 
- [12
+ [11
 
 ] (./thesis.lot)
 \tf@lot=\write6
 \openout6 = `thesis.lot'.
 
- [13
+ [12
 
 ]
 (/Users/s0784966/Dropbox/Thesis/ThesisAbstract/ThesisAbstract.tex)
@@ -833,28 +830,42 @@ Missing character: There is no ì in font cmr10!
 Chapter 1.
 [3
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
+] [4] [5]
+</Users/s0784966/Dropbox/Thesis/chapter1/figure_sweeps_no_legend.pdf, id=71, 19
+56.5597pt x 1333.98375pt>
+File: /Users/s0784966/Dropbox/Thesis/chapter1/figure_sweeps_no_legend.pdf Graph
+ic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter1/figure_sweeps_no_legend.pdf>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1/figure_sweeps_
+no_legend.pdf used on input line 68.
+(pdftex.def)             Requested size: 413.98767pt x 282.24141pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
  []
 
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
+[7 </Users/s0784966/Dropbox/Thesis/chapter1/figure_sweeps_no_legend.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
 
  []
 
@@ -865,18 +876,18 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
 
  []
 
-[5]
-Overfull \hbox (12.78871pt too wide) in paragraph at lines 45--45
+[8]
+Overfull \hbox (12.78871pt too wide) in paragraph at lines 96--96
  |[]\OT1/cmr/bx/n/12 The Cor-re-la-tion Be-tween Di-ver-sity and the Rate of Re
--com-bi-na-tion| 
+-com-bi-na-tion
  []
 
-[6]
-Underfull \hbox (badness 3884) in paragraph at lines 51--51
+[9]
+Underfull \hbox (badness 3884) in paragraph at lines 102--102
  |[]\OT1/cmr/bx/n/12 Correlation Be-tween Neu-tral Di-ver-sity and Non-Neutral
  []
 
@@ -884,9 +895,10 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
-Package natbib Warning: Citation `RN323' on page 7 undefined on input line 53.
+Package natbib Warning: Citation `RN323' on page 10 undefined on input line 104
+.
 
-[7] [8]
+[10] [11]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
@@ -897,8 +909,8 @@ Missing character: There is no Œ in font cmr10!
 Missing character: There is no ± in font cmr10!
 Missing character: There is no Œ in font cmr10!
 Missing character: There is no ± in font cmr10!
- [9] [10])
-(/Users/s0784966/Dropbox/Thesis/chapter2/recombinationChapter.tex [11]
+ [12] [13] [14])
+(/Users/s0784966/Dropbox/Thesis/chapter2/recombinationChapter.tex [15]
 Chapter 2.
 
 Underfull \hbox (badness 1509) in paragraph at lines 7--8
@@ -906,30 +918,30 @@ Underfull \hbox (badness 1509) in paragraph at lines 7--8
 n across the genome
  []
 
-[12
+[16
 
-] [13]
+] [17]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [14]
+ [18]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [15] [16] [17]
+ [19] [20] [21]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [18] [19] [20]
+ [22] [23] [24]
 Underfull \hbox (badness 1270) in paragraph at lines 50--51
 \OT1/cmr/m/n/10.95 the first 100,000 as burn-in. A block penalty of 100 was cho
 -sen to ob-tain
  []
 
-[21]
+[25]
 Underfull \hbox (badness 1237) in paragraph at lines 56--57
 \OT1/cmr/m/n/10.95 http://cgd.jax.org/mousemapconverter/). Here-after, this map
  shall be re-ferred
@@ -941,16 +953,16 @@ Underfull \hbox (badness 1371) in paragraph at lines 56--57
 chwig et al.
  []
 
-[22]
+[26]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [23]
+ [27]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
- [24] [25] [26]
-</Users/s0784966/Dropbox/Thesis/chapter2/Figures/Figure1.pdf, id=141, 578.16pt 
+ [28] [29] [30]
+</Users/s0784966/Dropbox/Thesis/chapter2/Figures/Figure1.pdf, id=166, 578.16pt 
 x 289.08pt>
 File: /Users/s0784966/Dropbox/Thesis/chapter2/Figures/Figure1.pdf Graphic file 
 (type pdf)
@@ -962,12 +974,12 @@ Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2/Figures/Figure
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[27]
+[31]
 
-Package natbib Warning: Citation `323' on page 28 undefined on input line 104.
+Package natbib Warning: Citation `323' on page 32 undefined on input line 104.
 
-[28 </Users/s0784966/Dropbox/Thesis/chapter2/Figures/Figure1.pdf>]
-</Users/s0784966/Dropbox/Thesis/chapter2/Figures/Figure2.pdf, id=168, 580.1675p
+[32 </Users/s0784966/Dropbox/Thesis/chapter2/Figures/Figure1.pdf>]
+</Users/s0784966/Dropbox/Thesis/chapter2/Figures/Figure2.pdf, id=194, 580.1675p
 t x 376.40625pt>
 File: /Users/s0784966/Dropbox/Thesis/chapter2/Figures/Figure2.pdf Graphic file 
 (type pdf)
@@ -980,8 +992,8 @@ Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2/Figures/Figure
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-(/Users/s0784966/Dropbox/Thesis/chapter2/Tables/Table1.tex) [29] [30]
-</Users/s0784966/Dropbox/Thesis/chapter2/Figures/Figure3.pdf, id=177, 867.24pt 
+(/Users/s0784966/Dropbox/Thesis/chapter2/Tables/Table1.tex) [33] [34]
+</Users/s0784966/Dropbox/Thesis/chapter2/Figures/Figure3.pdf, id=202, 867.24pt 
 x 505.89pt>
 File: /Users/s0784966/Dropbox/Thesis/chapter2/Figures/Figure3.pdf Graphic file 
 (type pdf)
@@ -999,13 +1011,13 @@ Underfull \hbox (badness 1205) in paragraph at lines 129--129
 1/cmr/bx/it/12 M. m.
  []
 
-[31 </Users/s0784966/Dropbox/Thesis/chapter2/Figures/Figure2.pdf>] [32 </Users/
+[35 </Users/s0784966/Dropbox/Thesis/chapter2/Figures/Figure2.pdf>] [36 </Users/
 s0784966/Dropbox/Thesis/chapter2/Figures/Figure3.pdf>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [33]
-(/Users/s0784966/Dropbox/Thesis/chapter2/Tables/Table2.tex) [34] [35] [36]
+ [37]
+(/Users/s0784966/Dropbox/Thesis/chapter2/Tables/Table2.tex) [38] [39] [40]
 Missing character: There is no œ in font cmr10!
 Missing character: There is no Å in font cmr10!
 Missing character: There is no Œ in font cmr10!
@@ -1013,7 +1025,7 @@ Missing character: There is no ∏ in font cmr10!
 Missing character: There is no Œ in font cmr10!
 Missing character: There is no º in font cmr10!
 
-[37] [38]
+[41] [42]
 Missing character: There is no œ in font cmr10!
 Missing character: There is no Å in font cmr10!
 Missing character: There is no œ in font cmr10!
@@ -1024,10 +1036,10 @@ Missing character: There is no œ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no œ in font cmr10!
 Missing character: There is no Å in font cmr10!
- [39] [40])
-(/Users/s0784966/Dropbox/Thesis/chapter3/simulationChapter.tex [41] [42]
+ [43] [44])
+(/Users/s0784966/Dropbox/Thesis/chapter3/simulationChapter.tex [45] [46]
 Chapter 3.
-[43
+[47
 
 ]
 Underfull \hbox (badness 1917) in paragraph at lines 12--13
@@ -1035,25 +1047,25 @@ Underfull \hbox (badness 1917) in paragraph at lines 12--13
 on be-tween nu-cleotide
  []
 
-[44] [45] [46] [47]
+[48] [49] [50] [51]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [48]
+ [52]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [49]
+ [53]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [50]
+ [54]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
@@ -1066,7 +1078,7 @@ Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [51]
+ [55]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -1076,11 +1088,11 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no í in font cmr10!
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ≠ in font cmr10!
- [52] [53] [54]
+ [56] [57] [58]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no Ö in font cmr10!
- [55]
+ [59]
 Missing character: There is no Œ in font cmr10!
 Missing character: There is no ∏ in font cmr10!
 Missing character: There is no Œ in font cmr10!
@@ -1091,17 +1103,17 @@ Missing character: There is no Œ in font cmr10!
 Missing character: There is no ∏ in font cmr10!
 Missing character: There is no œ in font cmr10!
 Missing character: There is no Å in font cmr10!
- [56]
+ [60]
 Missing character: There is no œ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no œ in font cmr10!
 Missing character: There is no Ä in font cmr10!
- [57]
+ [61]
 Missing character: There is no œ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no œ in font cmr10!
 Missing character: There is no Ä in font cmr10!
- [58]
+ [62]
 Missing character: There is no Œ in font cmr10!
 Missing character: There is no º in font cmr10!
 Missing character: There is no Œ in font cmr10!
@@ -1109,23 +1121,23 @@ Missing character: There is no º in font cmr10!
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no µ in font cmr10!
 
-[59]
+[63]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [60]
+ [64]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [61]
+ [65]
 Missing character: There is no  in font cmr10!
 Missing character: There is no ù in font cmr10!
 Missing character: There is no ú in font cmr10!
 Missing character: There is no í in font cmr10!
- [62]
+ [66]
 Underfull \hbox (badness 1436) in paragraph at lines 128--129
 []\OT1/cmr/m/n/10.95 We per-formed a com-par-i-son of dif-fer-ent DFE mod-els, 
 in-clud-ing dis-crete
@@ -1137,14 +1149,14 @@ Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-[63] [64]
+[67] [68]
 Missing character: There is no œ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no œ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no œ in font cmr10!
 Missing character: There is no Ä in font cmr10!
- [65] [66]
+ [69] [70]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -1166,7 +1178,7 @@ Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [67] [68] [69] [70] [71] [72]
+ [71] [72] [73] [74] [75] [76]
 Missing character: There is no ‚ in font cmbx12!
 Missing character: There is no Ä in font cmbx12!
 Missing character: There is no ô in font cmbx12!
@@ -1188,7 +1200,7 @@ Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-[73]
+[77]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -1198,114 +1210,147 @@ Underfull \hbox (badness 5696) in paragraph at lines 196--196
 
  []
 
-[74] [75]
+[78] [79]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [76] [77]
+ [80] [81]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [78])
-(/Users/s0784966/Dropbox/Thesis/chapter4/troughFittingChapter.tex [79]
+ [82])
+(/Users/s0784966/Dropbox/Thesis/chapter4/troughFittingChapter.tex [83]
 Chapter 4.
-[80
+[84
 
 ]
 
-Package natbib Warning: Citation `RN323' on page 81 undefined on input line 22.
+Package natbib Warning: Citation `RN323' on page 85 undefined on input line 19.
 
 
-[81] [82]
+[85] [86]
 
-LaTeX Warning: Reference `polyDFE' on page 83 undefined on input line 46.
-
-
-LaTeX Warning: Reference `polyDFE' on page 83 undefined on input line 46.
-
-[83] [84]
-
-Package natbib Warning: Citation `RN323' on page 85 undefined on input line 66.
+LaTeX Warning: Reference `polyDFE' on page 87 undefined on input line 42.
 
 
+LaTeX Warning: Reference `polyDFE' on page 87 undefined on input line 42.
 
-Package natbib Warning: Citation `RN323' on page 85 undefined on input line 66.
+[87]
+
+Package natbib Warning: Citation `RN323' on page 88 undefined on input line 62.
 
 
-[85] [86] [87] [88]
 
-Package natbib Warning: Citation `RN323' on page 89 undefined on input line 135
+Package natbib Warning: Citation `RN323' on page 88 undefined on input line 62.
+
+
+[88] [89] [90] [91]
+</Users/s0784966/PhD/Coding/Estimate_selection_from_troughs/simulations/NewSimu
+lations/SFSplot/SFSplot.pdf, id=406, 867.24pt x 361.35pt>
+File: /Users/s0784966/PhD/Coding/Estimate_selection_from_troughs/simulations/Ne
+wSimulations/SFSplot/SFSplot.pdf Graphic file (type pdf)
+
+<use /Users/s0784966/PhD/Coding/Estimate_selection_from_troughs/simulations/New
+Simulations/SFSplot/SFSplot.pdf>
+Package pdftex.def Info: /Users/s0784966/PhD/Coding/Estimate_selection_from_tro
+ughs/simulations/NewSimulations/SFSplot/SFSplot.pdf used on input line 127.
+(pdftex.def)             Requested size: 413.98767pt x 172.49767pt.
+ [92]
+
+Package natbib Warning: Citation `RN323' on page 93 undefined on input line 134
 .
 
-[89]
+[93 </Users/s0784966/PhD/Coding/Estimate_selection_from_troughs/simulations/New
+Simulations/SFSplot/SFSplot.pdf>]
 
-LaTeX Warning: Reference `tab:summaryStats' on page 90 undefined on input line 
-143.
-
-
-LaTeX Warning: Reference `tab:summaryStats' on page 90 undefined on input line 
-143.
+LaTeX Warning: Reference `tab:summaryStats' on page 94 undefined on input line 
+142.
 
 
-LaTeX Warning: Reference `tab:summaryStats' on page 90 undefined on input line 
-143.
-
-[90]
-
-LaTeX Warning: Reference `tab:summaryStats' on page 91 undefined on input line 
-145.
+LaTeX Warning: Reference `tab:summaryStats' on page 94 undefined on input line 
+142.
 
 
-Underfull \hbox (badness 1097) in paragraph at lines 145--146
+LaTeX Warning: Reference `tab:summaryStats' on page 94 undefined on input line 
+142.
+
+[94]
+
+LaTeX Warning: Reference `tab:summaryStats' on page 95 undefined on input line 
+144.
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 144--145
 []\OT1/cmr/m/n/10.95 The num-ber of fixed, ad-van-ta-geous mu-ta-tions car-ries
  in-for-ma-tion on the
  []
 
 
+Underfull \hbox (badness 2753) in paragraph at lines 146--146
+|\OT1/cmr/bx/n/12 Patterns of ge-netic di-ver-sity around protein-coding ex-ons
+ and
+ []
+
+
+</Users/s0784966/PhD/Coding/Estimate_selection_from_troughs/report/figures/Pi_g
+eneticDistance_4x4.pdf, id=430, 722.7pt x 433.62pt>
+File: /Users/s0784966/PhD/Coding/Estimate_selection_from_troughs/report/figures
+/Pi_geneticDistance_4x4.pdf Graphic file (type pdf)
+
+<use /Users/s0784966/PhD/Coding/Estimate_selection_from_troughs/report/figures/
+Pi_geneticDistance_4x4.pdf>
+Package pdftex.def Info: /Users/s0784966/PhD/Coding/Estimate_selection_from_tro
+ughs/report/figures/Pi_geneticDistance_4x4.pdf used on input line 150.
+(pdftex.def)             Requested size: 413.98767pt x 248.39001pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 </Users/s0784966/PhD/Coding/Estimate_selection_from_troughs/Presentation/data_a
-nalysis_singleClass.pdf, id=391, 722.7pt x 433.62pt>
+nalysis_singleClass.pdf, id=431, 722.7pt x 433.62pt>
 File: /Users/s0784966/PhD/Coding/Estimate_selection_from_troughs/Presentation/d
 ata_analysis_singleClass.pdf Graphic file (type pdf)
 
 <use /Users/s0784966/PhD/Coding/Estimate_selection_from_troughs/Presentation/da
 ta_analysis_singleClass.pdf>
 Package pdftex.def Info: /Users/s0784966/PhD/Coding/Estimate_selection_from_tro
-ughs/Presentation/data_analysis_singleClass.pdf used on input line 151.
+ughs/Presentation/data_analysis_singleClass.pdf used on input line 159.
 (pdftex.def)             Requested size: 413.98767pt x 248.39001pt.
- [91 </Users/s0784966/PhD/Coding/Estimate_selection_from_troughs/Presentation/d
-ata_analysis_singleClass.pdf>] [92]
-Underfull \hbox (badness 1742) in paragraph at lines 167--167
- |[]\OT1/cmr/bx/n/12 Parameters of se-lec-tive sweep ob-tained from pat-terns o
-f
- []
 
-[93] [94] [95]
-Overfull \hbox (14.81532pt too wide) in paragraph at lines 211--212
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[95] [96 </Users/s0784966/PhD/Coding/Estimate_selection_from_troughs/report/fig
+ures/Pi_geneticDistance_4x4.pdf>] [97 </Users/s0784966/PhD/Coding/Estimate_sele
+ction_from_troughs/Presentation/data_analysis_singleClass.pdf>] [98] [99]
+[100]
+Overfull \hbox (14.81532pt too wide) in paragraph at lines 219--220
 []\OT1/cmr/m/n/10.95 SOMETHING ABOUT SOFT SWEEPS AND OTHER MODES OF ADAP-TA-TIO
 N 
  []
 
-[96] [97] [98] [99]
+[101] [102] [103] [104]
 
-LaTeX Warning: Reference `eg:fitness' on page 100 undefined on input line 256.
+LaTeX Warning: Reference `eg:fitness' on page 105 undefined on input line 264.
 
-[100]) (/Users/s0784966/Dropbox/Thesis/chapter5/Discussion.tex [101] [102]
+[105]) (/Users/s0784966/Dropbox/Thesis/chapter5/Discussion.tex [106]
 Chapter 5.
-[103
+[107
 
-]
-Underfull \hbox (badness 1253) in paragraph at lines 15--15
+] [108] [109]
+Underfull \hbox (badness 1253) in paragraph at lines 37--37
  |[]\OT1/cmr/bx/n/12 The in-ter-ac-tion be-tween nat-u-ral se-lec-tion and de-m
 o-graphic
  []
 
-[104] [105] [106] [107] [108]) (./thesis.bbl [109]
+[110] [111] [112] [113]) (./thesis.bbl [114]
 Underfull \hbox (badness 1546) in paragraph at lines 10--14
 []\OT1/cmr/m/n/10.95 Andolfatto, P. (2007).  Hitch-hik-ing ef-fects of re-cur-r
 ent ben-e-fi-cial amino acid
  []
 
-[110
+[115
 
 ]
 Underfull \hbox (badness 1540) in paragraph at lines 91--95
@@ -1319,26 +1364,26 @@ Underfull \hbox (badness 1048) in paragraph at lines 91--95
 ogaster.  \OT1/cmr/m/it/10.95 PLoS Genet\OT1/cmr/m/n/10.95 ,
  []
 
-[111] [112] [113]
-Underfull \hbox (badness 3724) in paragraph at lines 375--379
+[116] [117] [118]
+Underfull \hbox (badness 3724) in paragraph at lines 380--384
 []\OT1/cmr/m/n/10.95 Macpherson, J. M., Sella, G., Davis, J. C., and Petrov, D.
  A. (2007).
  []
 
-[114]
-Underfull \hbox (badness 1184) in paragraph at lines 445--449
+[119]
+Underfull \hbox (badness 1184) in paragraph at lines 450--454
 \OT1/cmr/m/n/10.95 adap-tive pro-tein evo-lu-tion ap-par-ent in di-ver-sity pat
 -terns around amino acid
  []
 
-[115]) [116] [117
+[120]) [121] [122
 
 
 ]
 Appendix A.
 
 </Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.pdf, 
-id=485, 597.50829pt x 793.83177pt>
+id=551, 597.50829pt x 793.83177pt>
 File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
 pdf Graphic file (type pdf)
 
@@ -1355,11 +1400,11 @@ df>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
 _et_al_2017_REVIEW.pdf used on input line 99.
 (pdftex.def)             Requested size: 597.50682pt x 793.82983pt.
- [118
+ [123
 
 ]
 </Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.pdf, 
-id=491, page=1, 597.50829pt x 793.83177pt>
+id=557, page=1, 597.50829pt x 793.83177pt>
 File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
 pdf Graphic file (type pdf)
 
@@ -1399,260 +1444,260 @@ pdf Graphic file (type pdf)
 df, page 1>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
 _et_al_2017_REVIEW.pdf, page1 used on input line 99.
-(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
- [119 </Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW
-.pdf>]
-</Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.pdf, 
-id=553, page=2, 597.50829pt x 793.83177pt>
-File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
-pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 2>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page2 used on input line 99.
-(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
-File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
-pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 2>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page2 used on input line 99.
-(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
-File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
-pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 2>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page2 used on input line 99.
-(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
- [120 </Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW
-.pdf>]
-</Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.pdf, 
-id=581, page=3, 597.50829pt x 793.83177pt>
-File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
-pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 3>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page3 used on input line 99.
-(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
-File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
-pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 3>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page3 used on input line 99.
-(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
-File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
-pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 3>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page3 used on input line 99.
-(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
- [121 </Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW
-.pdf>]
-</Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.pdf, 
-id=586, page=4, 597.50829pt x 793.83177pt>
-File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
-pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 4>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page4 used on input line 99.
-(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
-File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
-pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 4>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page4 used on input line 99.
-(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
-File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
-pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 4>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page4 used on input line 99.
-(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
- [122 </Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW
-.pdf>]
-</Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.pdf, 
-id=618, page=5, 597.50829pt x 793.83177pt>
-File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
-pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 5>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page5 used on input line 99.
-(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
-File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
-pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 5>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page5 used on input line 99.
-(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
-File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
-pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 5>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page5 used on input line 99.
-(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
- [123 </Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW
-.pdf>]
-</Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.pdf, 
-id=622, page=6, 597.50829pt x 793.83177pt>
-File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
-pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 6>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page6 used on input line 99.
-(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
-File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
-pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 6>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page6 used on input line 99.
-(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
-File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
-pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 6>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page6 used on input line 99.
 (pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
  [124 </Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW
 .pdf>]
 </Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.pdf, 
-id=626, page=7, 597.50829pt x 793.83177pt>
+id=617, page=2, 597.50829pt x 793.83177pt>
 File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
 pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 7>
+df, page 2>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page7 used on input line 99.
+_et_al_2017_REVIEW.pdf, page2 used on input line 99.
 (pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
 File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
 pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 7>
+df, page 2>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page7 used on input line 99.
+_et_al_2017_REVIEW.pdf, page2 used on input line 99.
 (pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
 File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
 pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 7>
+df, page 2>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page7 used on input line 99.
+_et_al_2017_REVIEW.pdf, page2 used on input line 99.
 (pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
  [125 </Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW
 .pdf>]
 </Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.pdf, 
-id=631, page=8, 597.50829pt x 793.83177pt>
+id=645, page=3, 597.50829pt x 793.83177pt>
 File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
 pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 8>
+df, page 3>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page8 used on input line 99.
+_et_al_2017_REVIEW.pdf, page3 used on input line 99.
 (pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
 File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
 pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 8>
+df, page 3>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page8 used on input line 99.
+_et_al_2017_REVIEW.pdf, page3 used on input line 99.
 (pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
 File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
 pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 8>
+df, page 3>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page8 used on input line 99.
+_et_al_2017_REVIEW.pdf, page3 used on input line 99.
 (pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
  [126 </Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW
 .pdf>]
 </Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.pdf, 
-id=635, page=9, 597.50829pt x 793.83177pt>
+id=651, page=4, 597.50829pt x 793.83177pt>
 File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
 pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 9>
+df, page 4>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page9 used on input line 99.
+_et_al_2017_REVIEW.pdf, page4 used on input line 99.
 (pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
 File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
 pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 9>
+df, page 4>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page9 used on input line 99.
+_et_al_2017_REVIEW.pdf, page4 used on input line 99.
 (pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
 File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
 pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 9>
+df, page 4>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page9 used on input line 99.
+_et_al_2017_REVIEW.pdf, page4 used on input line 99.
 (pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
  [127 </Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW
 .pdf>]
 </Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.pdf, 
-id=653, page=10, 597.50829pt x 793.83177pt>
+id=684, page=5, 597.50829pt x 793.83177pt>
 File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
 pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 10>
+df, page 5>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page10 used on input line 99.
+_et_al_2017_REVIEW.pdf, page5 used on input line 99.
 (pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
 File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
 pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 10>
+df, page 5>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page10 used on input line 99.
+_et_al_2017_REVIEW.pdf, page5 used on input line 99.
 (pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
 File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
 pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
-df, page 10>
+df, page 5>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
-_et_al_2017_REVIEW.pdf, page10 used on input line 99.
+_et_al_2017_REVIEW.pdf, page5 used on input line 99.
 (pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
  [128 </Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW
+.pdf>]
+</Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.pdf, 
+id=688, page=6, 597.50829pt x 793.83177pt>
+File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
+pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
+df, page 6>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
+_et_al_2017_REVIEW.pdf, page6 used on input line 99.
+(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
+File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
+pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
+df, page 6>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
+_et_al_2017_REVIEW.pdf, page6 used on input line 99.
+(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
+File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
+pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
+df, page 6>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
+_et_al_2017_REVIEW.pdf, page6 used on input line 99.
+(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
+ [129 </Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW
+.pdf>]
+</Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.pdf, 
+id=692, page=7, 597.50829pt x 793.83177pt>
+File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
+pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
+df, page 7>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
+_et_al_2017_REVIEW.pdf, page7 used on input line 99.
+(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
+File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
+pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
+df, page 7>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
+_et_al_2017_REVIEW.pdf, page7 used on input line 99.
+(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
+File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
+pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
+df, page 7>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
+_et_al_2017_REVIEW.pdf, page7 used on input line 99.
+(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
+ [130 </Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW
+.pdf>]
+</Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.pdf, 
+id=696, page=8, 597.50829pt x 793.83177pt>
+File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
+pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
+df, page 8>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
+_et_al_2017_REVIEW.pdf, page8 used on input line 99.
+(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
+File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
+pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
+df, page 8>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
+_et_al_2017_REVIEW.pdf, page8 used on input line 99.
+(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
+File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
+pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
+df, page 8>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
+_et_al_2017_REVIEW.pdf, page8 used on input line 99.
+(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
+ [131 </Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW
+.pdf>]
+</Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.pdf, 
+id=700, page=9, 597.50829pt x 793.83177pt>
+File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
+pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
+df, page 9>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
+_et_al_2017_REVIEW.pdf, page9 used on input line 99.
+(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
+File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
+pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
+df, page 9>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
+_et_al_2017_REVIEW.pdf, page9 used on input line 99.
+(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
+File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
+pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
+df, page 9>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
+_et_al_2017_REVIEW.pdf, page9 used on input line 99.
+(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
+ [132 </Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW
+.pdf>]
+</Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.pdf, 
+id=719, page=10, 597.50829pt x 793.83177pt>
+File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
+pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
+df, page 10>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
+_et_al_2017_REVIEW.pdf, page10 used on input line 99.
+(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
+File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
+pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
+df, page 10>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
+_et_al_2017_REVIEW.pdf, page10 used on input line 99.
+(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
+File: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.
+pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.p
+df, page 10>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker
+_et_al_2017_REVIEW.pdf, page10 used on input line 99.
+(pdftex.def)             Requested size: 478.00728pt x 635.06628pt.
+ [133 </Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW
 .pdf>]
 Appendix B.
 (/Users/s0784966/Dropbox/Thesis/chapter2Appendix/chapter2appendix.tex
@@ -1665,7 +1710,7 @@ Overfull \hbox (6.08653pt too wide) in paragraph at lines 5--17
  []
 
 )
-</Users/s0784966/Dropbox/Thesis/chapter2Appendix/Figures/FigureS1.pdf, id=657, 
+</Users/s0784966/Dropbox/Thesis/chapter2Appendix/Figures/FigureS1.pdf, id=723, 
 578.16pt x 867.24pt>
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Figures/FigureS1.pdf Grap
 hic file (type pdf)
@@ -1679,7 +1724,7 @@ s/FigureS1.pdf used on input line 12.
 LaTeX Warning: Float too large for page by 8.47522pt on input line 15.
 
 
-</Users/s0784966/Dropbox/Thesis/chapter2Appendix/Figures/FigureS2.pdf, id=658, 
+</Users/s0784966/Dropbox/Thesis/chapter2Appendix/Figures/FigureS2.pdf, id=724, 
 1156.32pt x 578.16pt>
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Figures/FigureS2.pdf Grap
 hic file (type pdf)
@@ -1689,7 +1734,7 @@ Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Figure
 s/FigureS2.pdf used on input line 20.
 (pdftex.def)             Requested size: 413.98767pt x 206.99057pt.
 
-</Users/s0784966/Dropbox/Thesis/chapter2Appendix/Figures/FigureS3.pdf, id=659, 
+</Users/s0784966/Dropbox/Thesis/chapter2Appendix/Figures/FigureS3.pdf, id=725, 
 722.7pt x 578.16pt>
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Figures/FigureS3.pdf Grap
 hic file (type pdf)
@@ -1699,14 +1744,14 @@ Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Figure
 s/FigureS3.pdf used on input line 28.
 (pdftex.def)             Requested size: 413.98767pt x 331.18669pt.
 
-[129
+[134
 
-] [130] [131] [132 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Figures/Fig
-ureS1.pdf>] [133 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Figures/Figur
-eS2.pdf>] [134 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Figures/FigureS
+] [135] [136] [137 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Figures/Fig
+ureS1.pdf>] [138 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Figures/Figur
+eS2.pdf>] [139 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Figures/FigureS
 3.pdf>]
 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.pdf,
- id=718, 605.24722pt x 785.92223pt>
+ id=783, 605.24722pt x 785.92223pt>
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
 .pdf Graphic file (type pdf)
 
@@ -1723,9 +1768,9 @@ pdf>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
 _et_al2017_Genetics.pdf used on input line 35.
 (pdftex.def)             Requested size: 605.24574pt x 785.92032pt.
- [135]
+ [140]
 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.pdf,
- id=724, page=1, 605.24722pt x 785.92223pt>
+ id=789, page=1, 605.24722pt x 785.92223pt>
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
 .pdf Graphic file (type pdf)
 
@@ -1765,361 +1810,364 @@ File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
 pdf, page 1>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
 _et_al2017_Genetics.pdf, page1 used on input line 35.
-(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
- [136 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetic
-s.pdf>]
-</Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.pdf,
- id=789, page=2, 605.24722pt x 785.92223pt>
-File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
-.pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 2>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page2 used on input line 35.
-(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
-File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
-.pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 2>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page2 used on input line 35.
-(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
-File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
-.pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 2>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page2 used on input line 35.
-(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
- [137 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetic
-s.pdf>]
-</Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.pdf,
- id=804, page=3, 605.24722pt x 785.92223pt>
-File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
-.pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 3>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page3 used on input line 35.
-(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
-File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
-.pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 3>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page3 used on input line 35.
-(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
-File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
-.pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 3>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page3 used on input line 35.
-(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
- [138 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetic
-s.pdf>]
-</Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.pdf,
- id=811, page=4, 605.24722pt x 785.92223pt>
-File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
-.pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 4>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page4 used on input line 35.
-(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
-File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
-.pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 4>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page4 used on input line 35.
-(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
-File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
-.pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 4>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page4 used on input line 35.
-(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
- [139 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetic
-s.pdf>]
-</Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.pdf,
- id=815, page=5, 605.24722pt x 785.92223pt>
-File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
-.pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 5>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page5 used on input line 35.
-(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
-File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
-.pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 5>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page5 used on input line 35.
-(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
-File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
-.pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 5>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page5 used on input line 35.
-(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
- [140 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetic
-s.pdf>]
-</Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.pdf,
- id=819, page=6, 605.24722pt x 785.92223pt>
-File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
-.pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 6>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page6 used on input line 35.
-(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
-File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
-.pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 6>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page6 used on input line 35.
-(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
-File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
-.pdf Graphic file (type pdf)
-
-<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 6>
-Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page6 used on input line 35.
 (pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
  [141 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetic
 s.pdf>]
 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.pdf,
- id=827, page=7, 605.24722pt x 785.92223pt>
+ id=855, page=2, 605.24722pt x 785.92223pt>
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
 .pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 7>
+pdf, page 2>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page7 used on input line 35.
+_et_al2017_Genetics.pdf, page2 used on input line 35.
 (pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
 .pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 7>
+pdf, page 2>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page7 used on input line 35.
+_et_al2017_Genetics.pdf, page2 used on input line 35.
 (pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
 .pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 7>
+pdf, page 2>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page7 used on input line 35.
+_et_al2017_Genetics.pdf, page2 used on input line 35.
 (pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
  [142 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetic
 s.pdf>]
 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.pdf,
- id=843, page=8, 605.24722pt x 785.92223pt>
+ id=869, page=3, 605.24722pt x 785.92223pt>
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
 .pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 8>
+pdf, page 3>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page8 used on input line 35.
+_et_al2017_Genetics.pdf, page3 used on input line 35.
 (pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
 .pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 8>
+pdf, page 3>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page8 used on input line 35.
+_et_al2017_Genetics.pdf, page3 used on input line 35.
 (pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
 .pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 8>
+pdf, page 3>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page8 used on input line 35.
+_et_al2017_Genetics.pdf, page3 used on input line 35.
 (pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
  [143 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetic
 s.pdf>]
 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.pdf,
- id=849, page=9, 605.24722pt x 785.92223pt>
+ id=876, page=4, 605.24722pt x 785.92223pt>
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
 .pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 9>
+pdf, page 4>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page9 used on input line 35.
+_et_al2017_Genetics.pdf, page4 used on input line 35.
 (pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
 .pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 9>
+pdf, page 4>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page9 used on input line 35.
+_et_al2017_Genetics.pdf, page4 used on input line 35.
 (pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
 .pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 9>
+pdf, page 4>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page9 used on input line 35.
+_et_al2017_Genetics.pdf, page4 used on input line 35.
 (pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
  [144 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetic
 s.pdf>]
 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.pdf,
- id=854, page=10, 605.24722pt x 785.92223pt>
+ id=881, page=5, 605.24722pt x 785.92223pt>
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
 .pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 10>
+pdf, page 5>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page10 used on input line 35.
+_et_al2017_Genetics.pdf, page5 used on input line 35.
 (pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
 .pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 10>
+pdf, page 5>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page10 used on input line 35.
+_et_al2017_Genetics.pdf, page5 used on input line 35.
 (pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
 .pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 10>
+pdf, page 5>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page10 used on input line 35.
+_et_al2017_Genetics.pdf, page5 used on input line 35.
 (pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
  [145 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetic
 s.pdf>]
 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.pdf,
- id=866, page=11, 605.24722pt x 785.92223pt>
+ id=885, page=6, 605.24722pt x 785.92223pt>
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
 .pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 11>
+pdf, page 6>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page11 used on input line 35.
+_et_al2017_Genetics.pdf, page6 used on input line 35.
 (pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
 .pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 11>
+pdf, page 6>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page11 used on input line 35.
+_et_al2017_Genetics.pdf, page6 used on input line 35.
 (pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
 .pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 11>
+pdf, page 6>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page11 used on input line 35.
+_et_al2017_Genetics.pdf, page6 used on input line 35.
 (pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
  [146 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetic
 s.pdf>]
 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.pdf,
- id=870, page=12, 605.24722pt x 785.92223pt>
+ id=893, page=7, 605.24722pt x 785.92223pt>
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
 .pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 12>
+pdf, page 7>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page12 used on input line 35.
+_et_al2017_Genetics.pdf, page7 used on input line 35.
 (pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
 .pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 12>
+pdf, page 7>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page12 used on input line 35.
+_et_al2017_Genetics.pdf, page7 used on input line 35.
 (pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
 .pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 12>
+pdf, page 7>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page12 used on input line 35.
+_et_al2017_Genetics.pdf, page7 used on input line 35.
 (pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
  [147 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetic
 s.pdf>]
 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.pdf,
- id=874, page=13, 605.24722pt x 785.92223pt>
+ id=908, page=8, 605.24722pt x 785.92223pt>
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
 .pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 13>
+pdf, page 8>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page13 used on input line 35.
+_et_al2017_Genetics.pdf, page8 used on input line 35.
 (pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
 .pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 13>
+pdf, page 8>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page13 used on input line 35.
+_et_al2017_Genetics.pdf, page8 used on input line 35.
 (pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
 File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
 .pdf Graphic file (type pdf)
 
 <use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
-pdf, page 13>
+pdf, page 8>
 Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
-_et_al2017_Genetics.pdf, page13 used on input line 35.
+_et_al2017_Genetics.pdf, page8 used on input line 35.
 (pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
  [148 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetic
+s.pdf>]
+</Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.pdf,
+ id=913, page=9, 605.24722pt x 785.92223pt>
+File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
+.pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
+pdf, page 9>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
+_et_al2017_Genetics.pdf, page9 used on input line 35.
+(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
+File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
+.pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
+pdf, page 9>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
+_et_al2017_Genetics.pdf, page9 used on input line 35.
+(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
+File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
+.pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
+pdf, page 9>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
+_et_al2017_Genetics.pdf, page9 used on input line 35.
+(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
+ [149 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetic
+s.pdf>]
+</Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.pdf,
+ id=918, page=10, 605.24722pt x 785.92223pt>
+File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
+.pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
+pdf, page 10>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
+_et_al2017_Genetics.pdf, page10 used on input line 35.
+(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
+File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
+.pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
+pdf, page 10>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
+_et_al2017_Genetics.pdf, page10 used on input line 35.
+(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
+File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
+.pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
+pdf, page 10>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
+_et_al2017_Genetics.pdf, page10 used on input line 35.
+(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
+ [150 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetic
+s.pdf>]
+</Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.pdf,
+ id=931, page=11, 605.24722pt x 785.92223pt>
+File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
+.pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
+pdf, page 11>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
+_et_al2017_Genetics.pdf, page11 used on input line 35.
+(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
+File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
+.pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
+pdf, page 11>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
+_et_al2017_Genetics.pdf, page11 used on input line 35.
+(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
+File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
+.pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
+pdf, page 11>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
+_et_al2017_Genetics.pdf, page11 used on input line 35.
+(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
+ [151 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetic
+s.pdf>]
+</Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.pdf,
+ id=935, page=12, 605.24722pt x 785.92223pt>
+File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
+.pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
+pdf, page 12>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
+_et_al2017_Genetics.pdf, page12 used on input line 35.
+(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
+File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
+.pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
+pdf, page 12>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
+_et_al2017_Genetics.pdf, page12 used on input line 35.
+(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
+File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
+.pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
+pdf, page 12>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
+_et_al2017_Genetics.pdf, page12 used on input line 35.
+(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
+ [152 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetic
+s.pdf>]
+</Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.pdf,
+ id=939, page=13, 605.24722pt x 785.92223pt>
+File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
+.pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
+pdf, page 13>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
+_et_al2017_Genetics.pdf, page13 used on input line 35.
+(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
+File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
+.pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
+pdf, page 13>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
+_et_al2017_Genetics.pdf, page13 used on input line 35.
+(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
+File: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics
+.pdf Graphic file (type pdf)
+
+<use /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetics.
+pdf, page 13>
+Package pdftex.def Info: /Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker
+_et_al2017_Genetics.pdf, page13 used on input line 35.
+(pdftex.def)             Requested size: 484.19844pt x 628.73865pt.
+ [153 </Users/s0784966/Dropbox/Thesis/chapter2Appendix/Booker_et_al2017_Genetic
 s.pdf>])
 Appendix C.
-(/Users/s0784966/Dropbox/Thesis/chapter3Appendix/chapter3appendix.tex [149
+(/Users/s0784966/Dropbox/Thesis/chapter3Appendix/chapter3appendix.tex [154
 
 ]
-[150]
+[155]
 Missing character: There is no ‚ in font cmbx12!
 Missing character: There is no Ä in font cmbx12!
 Missing character: There is no ì in font cmbx12!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-) [151]
+ [156]) [157]
+Appendix D.
 
 Package natbib Warning: There were undefined citations.
 
-[152] (./thesis.aux)
+[158
+
+] (./thesis.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -2128,10 +2176,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 10502 strings out of 493117
- 157498 string characters out of 6135432
- 253609 words of memory out of 5000000
- 13589 multiletter control sequences out of 15000+600000
+ 10525 strings out of 493117
+ 158966 string characters out of 6135432
+ 253675 words of memory out of 5000000
+ 13607 multiletter control sequences out of 15000+600000
  16392 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  53i,19n,92p,3955b,622s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2155,10 +2203,10 @@ e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2014/
 texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2014/texmf-d
 ist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on thesis.pdf (166 pages, 3689294 bytes).
+Output written on thesis.pdf (171 pages, 3787336 bytes).
 PDF statistics:
- 956 PDF objects out of 1000 (max. 8388607)
- 623 compressed objects within 7 object streams
+ 1024 PDF objects out of 1200 (max. 8388607)
+ 669 compressed objects within 7 object streams
  0 named destinations out of 1000 (max. 500000)
- 181 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 196 words of extra memory for PDF output out of 10000 (max. 10000000)
 
