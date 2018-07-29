@@ -3,6 +3,10 @@
 
 \input{/Users/s0784966/Dropbox/Thesis/common/packages.tex}
 %\nobibliography*
+\usepackage{floatrow}
+\usepackage{xr}
+\usepackage{epigraph}
+\setlength{\epigraphwidth}{0.8\textwidth}
 
 %% some handy macros
 \input{/Users/s0784966/Dropbox/Thesis/common/definitions.tex}
@@ -11,6 +15,7 @@
 
 %========================= ALTERATIONS ========================= 
 
+\floatsetup[table]{capposition=top}
 
 %Paragraphs
 \setlength{\parindent}{0em}
@@ -29,7 +34,9 @@
 \setlength{\parindent}{1cm} % Default is 15pt.
 
 % This sets the options for table and figure captions
-\usepackage[font=small,labelfont=bf,tableposition=top]{caption}
+%\usepackage[font=small,labelfont=bf,tableposition=top]{caption}
+\usepackage[font=small,labelfont=bf]{caption}
+
 
 % Set double line spacing
 \doublespacing
@@ -53,9 +60,9 @@
 
 	\tableofcontents
 	
-	\listoffigures
+%	\listoffigures
 
-	\listoftables
+%	\listoftables
 
 
 %	\renewcommand{\contentsname}{Table of Contents}
@@ -74,19 +81,16 @@
 	% Boot up the Chapter 1: Introduction file
 	\input{\dir/chapter1/Introduction.tex}
 	% Boot up the Chapter 2: Recombination file
-	\input{\dir/chapter2/recombinationChapter.tex}
+	\input{\dir/chapter2/recombinationChapterRevised.tex}
 	% Boot up the Chapter 3: Introduction file
-	\input{\dir/chapter3/simulationChapter.tex}
+	\input{\dir/chapter3/simulationChapterRevised.tex}
 	% Boot up the Chapter 4: Trough Fitting file
 	\input{\dir/chapter4/troughFittingChapter.tex}
 	% Boot up the Chapter 5: Overall discussion
 	\input{\dir/chapter5/Discussion.tex}
+
 	\bibliographystyle{apalike}
-	\singlespacing
-
-	\bibliography{\dir/common/MyRefs2} 
-
-	\doublespacing
+	\bibliography{\dir/common/MyRefs3} 
 
 
 	% Here are the appendices. I think it might be a lot cleaner to have them as a separate file and to import that into the document
@@ -94,9 +98,9 @@
 	\begin{appendices}
 
 		\chapter{Booker \emph{et al.} 2017 - BMC Biology}
-	%%% This code works, it is just annoying to have to scroll through the entire review pdf each time I compile the code
+% This code works, it's just annoying to have to go through the entire review pdf each time I compile the code
 
-		  \includepdf[pages=-, scale = 0.8 , pagecommand={\pagestyle{fancy}}]{/Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.pdf}
+%		  \includepdf[pages=-, scale = 0.8 , pagecommand={\pagestyle{fancy}}]{/Users/s0784966/Dropbox/Thesis/chapter1Appendix/Booker_et_al_2017_REVIEW.pdf}
 
 		\chapter{Recombination in wild mice}
 

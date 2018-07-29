@@ -2,50 +2,48 @@ This is BibTeX, Version 0.99d (TeX Live 2014)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 The style file: apalike.bst
-Database file #1: /Users/s0784966/Dropbox/Thesis/common/MyRefs2.bib
+Database file #1: /Users/s0784966/Dropbox/Thesis/common/MyRefs3.bib
 Warning--I didn't find a database entry for "RN323"
-Warning--I didn't find a database entry for "323"
-Warning--empty title in RN359
-Warning--empty journal in RN359
-You've used 95 entries,
+Warning--there's a number but no volume in RN242
+You've used 110 entries,
             1935 wiz_defined-function locations,
-            1059 strings with 20600 characters,
-and the built_in function-call counts, 43604 in all, are:
-= -- 3985
-> -- 2483
-< -- 34
-+ -- 927
-- -- 884
-* -- 4200
-:= -- 7763
-add.period$ -- 283
-call.type$ -- 95
-change.case$ -- 916
-chr.to.int$ -- 94
-cite$ -- 97
-duplicate$ -- 1320
-empty$ -- 2701
-format.name$ -- 1023
-if$ -- 8291
-int.to.chr$ -- 2
+            1146 strings with 22595 characters,
+and the built_in function-call counts, 49028 in all, are:
+= -- 4525
+> -- 2610
+< -- 50
++ -- 976
+- -- 920
+* -- 4656
+:= -- 8692
+add.period$ -- 330
+call.type$ -- 110
+change.case$ -- 1009
+chr.to.int$ -- 108
+cite$ -- 111
+duplicate$ -- 1527
+empty$ -- 3142
+format.name$ -- 1090
+if$ -- 9374
+int.to.chr$ -- 3
 int.to.str$ -- 0
-missing$ -- 95
-newline$ -- 476
-num.names$ -- 285
-pop$ -- 706
+missing$ -- 111
+newline$ -- 553
+num.names$ -- 330
+pop$ -- 754
 preamble$ -- 1
-purify$ -- 917
+purify$ -- 1010
 quote$ -- 0
-skip$ -- 988
+skip$ -- 1155
 stack$ -- 0
-substring$ -- 2868
-swap$ -- 94
+substring$ -- 3369
+swap$ -- 110
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 570
-warning$ -- 2
-while$ -- 275
+type$ -- 658
+warning$ -- 1
+while$ -- 316
 width$ -- 0
-write$ -- 1229
-(There were 4 warnings)
+write$ -- 1427
+(There were 2 warnings)
