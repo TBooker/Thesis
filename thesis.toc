@@ -110,16 +110,16 @@
 \contentsline {subsection}{\numberline {5.3.2}Making better use of the available data}{142}
 \contentsline {subsection}{\numberline {5.3.3}Of mice and men (and fruit flies)}{144}
 \contentsline {chapter}{Bibliography}{146}
-\contentsline {chapter}{Appendices}{163}
-\contentsline {chapter}{\numberline {A}Booker \emph {et al.} 2017 - BMC Biology}{164}
-\contentsline {chapter}{\numberline {B}Recombination in wild mice}{175}
-\contentsline {section}{\numberline {B.1}Supplementary Material}{175}
-\contentsline {section}{\numberline {B.2}Booker \emph {et al.} 2017 - Genetics}{178}
-\contentsline {chapter}{\numberline {C}Selection at linked sites in wild mice}{197}
-\contentsline {section}{\numberline {C.1}Supplementary Methods}{197}
-\contentsline {subsection}{\numberline {C.1.1}Demographic correction}{197}
-\contentsline {subsection}{\numberline {C.1.2}Divergence correction}{198}
-\contentsline {subsection}{\numberline {C.1.3}Ancestral effective population size, Ne-anc – Model B}{199}
-\contentsline {section}{\numberline {C.2}Supplementary Tables and Figures}{200}
-\contentsline {chapter}{\numberline {D}Estimating sweep parameters}{210}
-\contentsline {section}{\numberline {D.1}Supplementary Material}{211}
+\contentsline {chapter}{Appendices}{165}
+\contentsline {chapter}{\numberline {A}Booker \emph {et al.} 2017 - BMC Biology}{166}
+\contentsline {chapter}{\numberline {B}Recombination in wild mice}{177}
+\contentsline {section}{\numberline {B.1}Supplementary Material}{177}
+\contentsline {section}{\numberline {B.2}Booker \emph {et al.} 2017 - Genetics}{180}
+\contentsline {chapter}{\numberline {C}Selection at linked sites in wild mice}{199}
+\contentsline {section}{\numberline {C.1}Supplementary Methods}{199}
+\contentsline {subsection}{\numberline {C.1.1}Demographic correction}{199}
+\contentsline {subsection}{\numberline {C.1.2}Divergence correction}{200}
+\contentsline {subsection}{\numberline {C.1.3}Ancestral effective population size, Ne-anc – Model B}{201}
+\contentsline {section}{\numberline {C.2}Supplementary Tables and Figures}{202}
+\contentsline {chapter}{\numberline {D}Estimating sweep parameters}{212}
+\contentsline {section}{\numberline {D.1}Supplementary Material}{213}

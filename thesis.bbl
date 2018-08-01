@@ -2,14 +2,14 @@
 
 \bibitem[Aguade et~al., 1989]{RN225}
 Aguade, M., Miyashita, N., and Langley, C.~H. (1989).
-\newblock Reduced variation in the yello-achaete-schute region in natural
-  populations of drosophila melanogaster.
+\newblock Reduced variation in the \textit{yello-achaete-schute} region in
+  natural populations of \textit{{D}rosophila melanogaster}.
 \newblock {\em Genetics}, 122:607--615.
 
 \bibitem[Andolfatto, 2007]{RN283}
 Andolfatto, P. (2007).
 \newblock Hitchhiking effects of recurrent beneficial amino acid substitutions
-  in the drosophila melanogaster genome.
+  in the \textit{{D}rosophila melanogaster} genome.
 \newblock {\em Genome Res}, 17(12):1755--62.
 
 \bibitem[Auton and McVean, 2007]{RN260}
@@ -19,12 +19,12 @@ Auton, A. and McVean, G. (2007).
 
 \bibitem[Baines and Harr, 2007]{RN233}
 Baines, J.~F. and Harr, B. (2007).
-\newblock Reduced x-linked diversity in derived populations of house mice.
+\newblock Reduced {X}-linked diversity in derived populations of house mice.
 \newblock {\em Genetics}, 175(4):1911--1921.
 
 \bibitem[Bank et~al., 2014]{RN181}
 Bank, C., Hietpas, R.~T., Wong, A., Bolon, D.~N., and Jensen, J.~D. (2014).
-\newblock A bayesian mcmc approach to assess the complete distribution of
+\newblock A {B}ayesian {MCMC} approach to assess the complete distribution of
   fitness effects of new mutations: uncovering the potential for adaptive walks
   in challenging environments.
 \newblock {\em Genetics}, 196(3):841--52.
@@ -37,12 +37,17 @@ Barton, N.~H. (1998).
 \bibitem[Barton, 2000]{RN235}
 Barton, N.~H. (2000).
 \newblock Genetic hitchhiking.
-\newblock {\em Philos Trans R Soc Lond B Biol Sci}, 355(1403):1553--62.
+\newblock {\em Phil Trans R Soc B Biol Sci}, 355(1403):1553--62.
+
+\bibitem[Barton and Keightley, 2002]{RN390}
+Barton, N.~H. and Keightley, P.~D. (2002).
+\newblock Understanding quantitative genetic variation.
+\newblock {\em Nat Rev Genet}, 3(1):11--21.
 
 \bibitem[Baudat et~al., 2010]{RN269}
 Baudat, F., Buard, J., Grey, C., Fledel-Alon, A., Ober, C., Przeworski, M.,
   Coop, G., and de~Massy, B. (2010).
-\newblock Prdm9 is a major determinant of meiotic recombination hotspots in
+\newblock {PRDM9} is a major determinant of meiotic recombination hotspots in
   humans and mice.
 \newblock {\em Science}, 327(5967):836--840.
 
@@ -59,8 +64,8 @@ Beaumont, M.~A., Yang, W., and Balding, D.~J. (2002).
 \bibitem[Begun and Aquadro, 1992]{RN114}
 Begun, D.~J. and Aquadro, C.~F. (1992).
 \newblock Levels of naturally occuring dna polymorphism correlate with
-  recombination rate in drosophila melanogaster.
-\newblock {\em Nature}, 356.
+  recombination rate in \textit{{D}rosophila melanogaster}.
+\newblock {\em Nature}, 356:519--520.
 
 \bibitem[Beissinger et~al., 2016]{RN230}
 Beissinger, T.~M., Wang, L., Crosby, K., Durvasula, A., Hufford, M.~B., and
@@ -91,7 +96,7 @@ Boyko, A.~R., Williamson, S.~H., Indap, A.~R., Degenhardt, J.~D., Hernandez,
 \bibitem[Braverman et~al., 1995]{RN287}
 Braverman, J.~M., Hudson, R.~R., Kaplan, N.~L., Langley, C.~H., and Stephan, W.
   (1995).
-\newblock The hitchhiking effect on the site frequency spectrum of dna
+\newblock The hitchhiking effect on the site frequency spectrum of {DNA}
   polymorphisms.
 \newblock {\em Genetics}, 140:783--796.
 
@@ -109,6 +114,12 @@ Brunschwig, H., Liat, L., Ben-David, E., Williams, R.~W., Yakir, B., and
   genome.
 \newblock {\em Genetics}, 191:757--764.
 
+\bibitem[Burnham and Anderson, 2002]{RN393}
+Burnham, K.~P. and Anderson, D.~R. (2002).
+\newblock {\em Model selection and multimodel inference: A practical
+  information-theoretic approach}.
+\newblock Springer-Verlag, New York, 2nd edition.
+
 \bibitem[Cai et~al., 2009]{RN168}
 Cai, J.~J., Macpherson, J.~M., Sella, G., and Petrov, D.~A. (2009).
 \newblock Pervasive hitchhiking at coding and regulatory sites in humans.
@@ -117,8 +128,9 @@ Cai, J.~J., Macpherson, J.~M., Sella, G., and Petrov, D.~A. (2009).
 \bibitem[Campos et~al., 2017]{RN290}
 Campos, J.~L., Zhao, L., and Charlesworth, B. (2017).
 \newblock Estimating the parameters of background selection and selective
-  sweeps in drosophila in the presence of gene conversion.
-\newblock {\em Proc Natl Acad Sci}, Early Online.
+  sweeps in \textit{{D}rosophila} in the presence of gene conversion.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  114(24):E4762--E4771.
 
 \bibitem[Carroll, 2005]{RN346}
 Carroll, S.~B. (2005).
@@ -127,8 +139,8 @@ Carroll, S.~B. (2005).
 
 \bibitem[Chan et~al., 2012]{RN213}
 Chan, A.~H., Jenkins, P.~A., and Song, Y.~S. (2012).
-\newblock Genome-wide fine-scale recombination rate variation in drosophila
-  melanogaster.
+\newblock Genome-wide fine-scale recombination rate variation in
+  \textit{{D}rosophila melanogaster}.
 \newblock {\em PLoS Genet}, 8(12):e1003090.
 
 \bibitem[Charlesworth, 1994]{RN294}
@@ -139,8 +151,8 @@ Charlesworth, B. (1994).
 
 \bibitem[Charlesworth, 1996]{RN281}
 Charlesworth, B. (1996).
-\newblock Background selection and patterns of genetic diversity in drosophila
-  melanogaster.
+\newblock Background selection and patterns of genetic diversity in
+  \textit{{D}rosophila melanogaster}.
 \newblock {\em Genetical Research}, 68:131--149.
 
 \bibitem[Charlesworth, 2009]{RN110}
@@ -152,13 +164,13 @@ Charlesworth, B. (2009).
 \bibitem[Charlesworth, 2012]{RN288}
 Charlesworth, B. (2012).
 \newblock The role of background selection in shaping patterns of molecular
-  evolution and variation: evidence from variability on the drosophila x
-  chromosome.
+  evolution and variation: evidence from variability on the
+  \textit{{D}rosophila} {X} chromosome.
 \newblock {\em Genetics}, 191(1):233--46.
 
 \bibitem[Charlesworth, 2013]{RN115}
 Charlesworth, B. (2013).
-\newblock Background selection 20 years on: the wilhelmine e. key 2012
+\newblock Background selection 20 years on: the {W}ilhelmine {E}. {K}ey 2012
   invitational lecture.
 \newblock {\em J Hered}, 104(2):161--71.
 
@@ -203,7 +215,7 @@ Chia, J.~M., Song, C., Bradbury, P.~J., Costich, D., de~Leon, N., Doebley, J.,
   T., Sekhon, R.~S., Sun, Q., Tenaillon, M.~I., Tian, F., Wang, J., Xu, X.,
   Zhang, Z., Kaeppler, S.~M., Ross-Ibarra, J., McMullen, M.~D., Buckler, E.~S.,
   Zhang, G., Xu, Y., and Ware, D. (2012).
-\newblock Maize hapmap2 identifies extant variation from a genome in flux.
+\newblock Maize {H}ap{M}ap2 identifies extant variation from a genome in flux.
 \newblock {\em Nat Genet}, 44(7):803--7.
 
 \bibitem[Clark et~al., 2010]{RN370}
@@ -215,8 +227,21 @@ Clark, A.~G., Wang, X., and Matise, T. (2010).
 \bibitem[Comeron, 2014]{RN116}
 Comeron, J. (2014).
 \newblock Background selection as a baseline for nucleotide variation across
-  the drosophila genome.
-\newblock {\em PLoS Genetics}, 10(6).
+  the \textit{{D}rosophila} genome.
+\newblock {\em PLoS Genetics}, 10(6):e1004434.
+
+\bibitem[Comeron, 2017]{RN394}
+Comeron, J.~M. (2017).
+\newblock Background selection as null hypothesis in population genomics:
+  insights and challenges from \textit{{D}rosophila} studies.
+\newblock {\em Phil Trans R Soc B Biol Sci}, 372(1736).
+
+\bibitem[Consortium et~al., 2015]{RN272}
+Consortium, T. . G.~P., Auton, A., Brooks, L.~D., Durbin, R.~M., Garrison,
+  E.~P., Kang, H.~M., Korbel, J.~O., Marchini, J.~L., McCarthy, S., McVean,
+  G.~A., and Abecasis, G.~R. (2015).
+\newblock A global reference for human genetic variation.
+\newblock {\em Nature}, 526(7571):68--74.
 
 \bibitem[Coop and Ralph, 2012]{RN226}
 Coop, G. and Ralph, P. (2012).
@@ -239,7 +264,7 @@ Cox, A., Ackert-Bicknell, C.~L., Dumont, B.~L., Ding, Y., Bell, J.~T.,
 
 \bibitem[Cutter and Payseur, 2013]{RN117}
 Cutter, A.~D. and Payseur, B.~A. (2013).
-\newblock Genomic signatures of selection at linked sites: unifying the
+\newblock Genomic signatures of selection at linked sites: {u}nifying the
   disparity among species.
 \newblock {\em Nat Rev Genet}, 14(4):262--74.
 
@@ -248,15 +273,21 @@ Davies, B., Hatton, E., Altemose, N., Hussin, J.~G., Pratto, F., Zhang, G.,
   Hinch, A.~G., Moralli, D., Biggs, D., Diaz, R., Preece, C., Li, R., Bitoun,
   E., Brick, K., Green, C.~M., Camerini-Otero, R.~D., Myers, S.~R., and
   Donnelly, P. (2016).
-\newblock Re-engineering the zinc fingers of prdm9 reverses hybrid sterility in
-  mice.
+\newblock Re-engineering the zinc fingers of {PRDM9} reverses hybrid sterility
+  in mice.
 \newblock {\em Nature}, 530(7589):171--6.
+
+\bibitem[de~Massy, 2013]{RN388}
+de~Massy, B. (2013).
+\newblock Initiation of meiotic recombination: how and where? conservation and
+  specificities among eukaryotes.
+\newblock {\em Annu Rev Genet}, 47:563--99.
 
 \bibitem[Deinum et~al., 2015]{RN327}
 Deinum, E.~E., Halligan, D.~L., Ness, R.~W., Zhang, Y.~H., Cong, L., Zhang,
   J.~X., and Keightley, P.~D. (2015).
-\newblock Recent evolution in rattus norvegicus is shaped by declining
-  effective population size.
+\newblock Recent evolution in \textit{{R}attus norvegicus} is shaped by
+  declining effective population size.
 \newblock {\em Mol Biol Evol}, 32(10):2547--58.
 
 \bibitem[Delaneau et~al., 2013]{RN231}
@@ -271,7 +302,7 @@ dos Reis, M. and Wernisch, L. (2009).
 
 \bibitem[Dumont and Payseur, 2011]{RN270}
 Dumont, B.~L. and Payseur, B.~A. (2011).
-\newblock Genetic analysis of genomic-scale recombiantion rate evolution in
+\newblock Genetic analysis of genomic-scale recombination rate evolution in
   house mice.
 \newblock {\em PLoS Genet}, 7(6):11.
 
@@ -302,13 +333,20 @@ Ellegren, H. (2014).
 \bibitem[Elyashiv et~al., 2016]{RN274}
 Elyashiv, E., Sattath, S., Hu, T.~T., Strutsovsky, A., McVicker, G.,
   Andolfatto, P., Coop, G., and Sella, G. (2016).
-\newblock A genomic map of the effects of linked selection in drosophila.
+\newblock A genomic map of the effects of linked selection in
+  \textit{{D}rosophila}.
 \newblock {\em PLoS Genet}, 12(8):e1006130.
 
 \bibitem[Enard et~al., 2014]{RN237}
 Enard, D., Messer, P.~W., and Petrov, D.~A. (2014).
 \newblock Genome-wide signals of positive selection in human evolution.
 \newblock {\em Genome Res}, 24(6):885--95.
+
+\bibitem[Ewing et~al., 2011]{RN396}
+Ewing, G., Hermisson, J., Pfaffelhuber, P., and Rudolf, J. (2011).
+\newblock Selective sweeps for recessive alleles and for other modes of
+  dominance.
+\newblock {\em J Math Biol}, 63(3):399--431.
 
 \bibitem[Ewing and Jensen, 2016]{RN241}
 Ewing, G.~B. and Jensen, J.~D. (2016).
@@ -333,15 +371,30 @@ Eyre-Walker, A., Woolfit, M., and Phelps, T. (2006).
   mutations in humans.
 \newblock {\em Genetics}, 173(2):891--900.
 
+\bibitem[Falconer and Mackay, 1996]{RN391}
+Falconer, D.~S. and Mackay, T. F.~C. (1996).
+\newblock {\em Introduction to Quantitative Genetics}.
+\newblock Longman, London, 4th edition.
+
 \bibitem[Field et~al., 2016]{RN301}
 Field, Y., Boyle, E.~A., Telis, N., Gao, Z., Gaulton, K.~J., Golan, D., Yengo,
   L., Rocheleau, G., Froguel, P., McCarthy, M.~I., and Pritchard, J.~K. (2016).
 \newblock Detection of human adaptation during the past 2000 years.
 \newblock {\em Science}, 354(6313):760--764.
 
+\bibitem[Fisher, 1930a]{RN400}
+Fisher, R.~A. (1930a).
+\newblock The distribution of gene ratios for rare mutations.
+\newblock {\em Proc Roy Soc Edin}, 50:205--220.
+
+\bibitem[Fisher, 1930b]{RN199}
+Fisher, R.~A. (1930b).
+\newblock {\em The Genetical Theory of Natural Selection}.
+\newblock Oxford University Press.
+
 \bibitem[Franchini and Pollard, 2017]{RN348}
 Franchini, L.~F. and Pollard, K.~S. (2017).
-\newblock Human evolution: the non-coding revolution.
+\newblock Human evolution: {t}he non-coding revolution.
 \newblock {\em BMC Biology}, 15(1).
 
 \bibitem[Frisse et~al., 2001]{RN379}
@@ -359,33 +412,33 @@ Galtier, N. (2016).
 
 \bibitem[Garud et~al., 2015]{RN208}
 Garud, N.~R., Messer, P.~W., Buzbas, E.~O., and Petrov, D.~A. (2015).
-\newblock Recent selective sweeps in north american drosophila melanogaster
-  show signatures of soft sweeps.
+\newblock Recent selective sweeps in north american \textit{{D}rosophila
+  melanogaster} show signatures of soft sweeps.
 \newblock {\em PLoS Genet}, 11(2):e1005004.
 
 \bibitem[Garud and Petrov, 2016]{RN303}
 Garud, N.~R. and Petrov, D.~A. (2016).
 \newblock Elevated linkage disequilibrium and signatures of soft sweeps are
-  common in drosophila melanogaster.
+  common in \textit{{D}rosophila melanogaster}.
 \newblock {\em Genetics}, 203(2):863--80.
 
 \bibitem[Geraldes et~al., 2008]{RN255}
 Geraldes, A., Basset, P., Gibson, B., Smith, K.~L., Harr, B., Yu, H.~T.,
   Bulatova, N., Ziv, Y., and Nachman, M.~W. (2008).
 \newblock Inferring the history of speciation in house mice from autosomal,
-  x-linked, y-linked and mitochondrial genes.
+  {X}-linked, {Y}-linked and mitochondrial genes.
 \newblock {\em Mol Ecol}, 17(24):5349--63.
 
 \bibitem[Geraldes et~al., 2011]{RN315}
 Geraldes, A., Basset, P., Smith, K.~L., and Nachman, M.~W. (2011).
-\newblock Higher differentiation among subspecies of the house mouse (mus
-  musculus) in genomic regions with low recombination.
+\newblock Higher differentiation among subspecies of the house mouse
+  (\textit{{M}us musculus}) in genomic regions with low recombination.
 \newblock {\em Mol Ecol}, 20(22):4722--36.
 
 \bibitem[Glemin et~al., 2015]{RN276}
 Glemin, S., Arndt, P.~F., Messer, P.~W., Petrov, D., Galtier, N., and Duret, L.
   (2015).
-\newblock Quantification of gc-biased gene conversion in the human genome.
+\newblock Quantification of {GC}-biased gene conversion in the human genome.
 \newblock {\em Genome Res}, 25(8):1215--28.
 
 \bibitem[Good et~al., 2014]{RN378}
@@ -401,26 +454,26 @@ Gordo, I., Navarro, A., and Charlesworth, B. (2002).
 \bibitem[Graur et~al., 2013]{RN161}
 Graur, D., Zheng, Y., Price, N., Azevedo, R.~B., Zufall, R.~A., and Elhaik, E.
   (2013).
-\newblock On the immortality of television sets: "function" in the human genome
-  according to the evolution-free gospel of encode.
+\newblock On the immortality of television sets: ``function" in the human
+  genome according to the evolution-free gospel of encode.
 \newblock {\em Genome Biol Evol}, 5(3):578--90.
 
 \bibitem[Grey et~al., 2011]{RN245}
 Grey, C., Barthes, P., Chauveau-Le~Friec, G., Langa, F., Baudat, F., and
   de~Massy, B. (2011).
-\newblock Mouse prdm9 dna-binding specificity determines sites of histone h3
-  lysine 4 trimethylation for initiation of meiotic recombination.
+\newblock Mouse {PRDM9} {DNA}-binding specificity determines sites of histone
+  {H3} lysine 4 trimethylation for initiation of meiotic recombination.
 \newblock {\em PLoS Biol}, 9(10):e1001176.
 
 \bibitem[Haddrill et~al., 2011]{RN284}
 Haddrill, P.~R., Zeng, K., and Charlesworth, B. (2011).
 \newblock Determinants of synonymous and nonsynonymous variability in three
-  species of drosophila.
+  species of \textit{{D}rosophila}.
 \newblock {\em Mol Biol Evol}, 28(5):1731--43.
 
 \bibitem[Haller and Messer, 2017]{RN360}
 Haller, B.~C. and Messer, P.~W. (2017).
-\newblock Slim 2: Flexible, interactive forward genetic simulations.
+\newblock {SLiM} 2: {F}lexible, interactive forward genetic simulations.
 \newblock {\em Mol Biol Evol}, 34(1):230--240.
 
 \bibitem[Halligan et~al., 2013]{RN122}
@@ -448,20 +501,25 @@ Harr, B., Karakoc, E., Neme, R., Teschke, M., Pfeifle, C., Pezer, {\v Z}.,
   Babiker, H., Linnenbrink, M., Montero, I., Scavetta, R., Abai, M.~R., Molins,
   M.~P., Schlegel, M., Ulrich, R.~G., Altm{\"u}ller, J., Franitza, M.,
   B{\"u}ntge, A., K{\"u}nzel, S., and Tautz, D. (2016).
-\newblock Genomic resources for wild populations of the house mouse, mus
-  musculus and its close relative mus spretus.
+\newblock Genomic resources for wild populations of the house mouse,
+  \textit{{M}us musculus} and its close relative \textit{{M}us spretus}.
 \newblock {\em Scientific Data}, 3:160075.
+
+\bibitem[Hartfield and Keightley, 2012]{RN389}
+Hartfield, M. and Keightley, P.~D. (2012).
+\newblock Current hypotheses for the evolution of sex and recombination.
+\newblock {\em Integr Zool}, 7(2):192--209.
 
 \bibitem[Hermisson and Pennings, 2005]{RN278}
 Hermisson, J. and Pennings, P.~S. (2005).
-\newblock Soft sweeps: molecular population genetics of adaptation from
+\newblock Soft sweeps: {M}olecular population genetics of adaptation from
   standing genetic variation.
 \newblock {\em Genetics}, 169(4):2335--52.
 
 \bibitem[Hermisson and Pennings, 2017]{RN336}
 Hermisson, J. and Pennings, P.~S. (2017).
-\newblock Soft sweeps and beyond: understanding the patterns and probabilities
-  of selection footprints under rapid adaptation.
+\newblock Soft sweeps and beyond: {U}nderstanding the patterns and
+  probabilities of selection footprints under rapid adaptation.
 \newblock {\em Methods in Ecology and Evolution}, 8(6):700--716.
 
 \bibitem[Hernandez et~al., 2011]{RN162}
@@ -472,7 +530,7 @@ Hernandez, R., Kelly, J.~L., Elyashiv, E., Melton, S.~C., Auton, A., McVean,
 
 \bibitem[Hernandez and Uricchio, 2015]{RN362}
 Hernandez, R.~D. and Uricchio, L.~H. (2015).
-\newblock Sfscode: More efficient and flexible forward simulations.
+\newblock {SFS-CODE}: More efficient and flexible forward simulations.
 \newblock {\em bioRxiv}.
 
 \bibitem[Hudson, 2001]{RN261}
@@ -499,7 +557,7 @@ Jensen-Seaman, M.~I., Furey, T.~S., Payseur, B.~A., Lu, Y., Roskin, K.~M.,
 \bibitem[Johnston et~al., 2016]{RN250}
 Johnston, S.~E., Berenos, C., Slate, J., and Pemberton, J.~M. (2016).
 \newblock Conserved genetic architecture underlying individual recombination
-  rate variation in a wild population of soay sheep (ovis aries).
+  rate variation in a wild population of soay sheep (\textit{{O}vis aries}).
 \newblock {\em Genetics}, 203(1):583--98.
 
 \bibitem[Josephs et~al., 2015]{RN271}
@@ -516,15 +574,15 @@ Kamm, J.~A., Spence, J.~P., Chan, J., and Song, Y.~S. (2016).
 
 \bibitem[Kaur and Rockman, 2014]{RN333}
 Kaur, T. and Rockman, M.~V. (2014).
-\newblock Crossover heterogeneity in the absence of hotspots in caenorhabditis
-  elegans.
+\newblock Crossover heterogeneity in the absence of hotspots in
+  \textit{{C}aenorhabditis elegans}.
 \newblock {\em Genetics}, 196(1):137--48.
 
 \bibitem[Keightley et~al., 2016]{RN321}
 Keightley, P.~D., Campos, J.~L., Booker, T.~R., and Charlesworth, B. (2016).
 \newblock Inferring the frequency spectrum of derived variants to quantify
-  adaptive molecular evolution in protein-coding genes of drosophila
-  melanogaster.
+  adaptive molecular evolution in protein-coding genes of \textit{{D}rosophila
+  melanogaster}.
 \newblock {\em Genetics}, 203(2):975--84.
 
 \bibitem[Keightley and Eyre-Walker, 2007]{RN164}
@@ -533,6 +591,12 @@ Keightley, P.~D. and Eyre-Walker, A. (2007).
   mutations and population demography based on nucleotide polymorphism
   frequencies.
 \newblock {\em Genetics}, 177(4):2251--61.
+
+\bibitem[Keightley et~al., 2014]{RN387}
+Keightley, P.~D., Ness, R.~W., Halligan, D.~L., and Haddrill, P.~R. (2014).
+\newblock Estimation of the spontaneous mutation rate per nucleotide site in a
+  \textit{{D}rosophila melanogaster} full-sib family.
+\newblock {\em Genetics}, 196(1):313--20.
 
 \bibitem[Kelleher et~al., 2018]{RN359}
 Kelleher, J., Thornton, K., Ashander, J., and Ralph, P. (2018).
@@ -555,10 +619,21 @@ Kim, Y. and Stephan, W. (2000).
   neutral variation.
 \newblock {\em Genetics}, 155:1415--1427.
 
+\bibitem[Kimura, 1962]{RN399}
+Kimura, M. (1962).
+\newblock On the probability of fixation of mutant genes in a population.
+\newblock {\em Genetics}, 47(6):713--719.
+
 \bibitem[Kimura, 1983]{RN175}
 Kimura, M. (1983).
 \newblock {\em The Neutral Theory of Molecular Evolution}.
 \newblock Cambridge University Press.
+
+\bibitem[Kimura and Ohta, 1969]{RN401}
+Kimura, M. and Ohta, K. (1969).
+\newblock The average number of generations until fixtation of a mutant gene in
+  a finite population.
+\newblock {\em Genetics}, 61:763--771.
 
 \bibitem[Kimura and Ohta, 1971]{RN384}
 Kimura, M. and Ohta, K. (1971).
@@ -573,12 +648,12 @@ King, M.-C. and Wilson, A.~C. (1975).
 \bibitem[Kono et~al., 2014]{RN292}
 Kono, H., Tamura, M., Osada, N., Suzuki, H., Abe, K., Moriwaki, K., Ohta, K.,
   and Shiroishi, T. (2014).
-\newblock Prdm9 polymorphism unveils mouse evolutionary tracks.
+\newblock {PRDM9} polymorphism unveils mouse evolutionary tracks.
 \newblock {\em DNA Res}, 21(3):315--26.
 
 \bibitem[Kousathanas et~al., 2014]{RN238}
 Kousathanas, A., Halligan, D.~L., and Keightley, P.~D. (2014).
-\newblock Faster-x adaptive protein evolution in house mice.
+\newblock Faster-{X} adaptive protein evolution in house mice.
 \newblock {\em Genetics}, 196(4):1131--43.
 
 \bibitem[Kousathanas and Keightley, 2013]{RN178}
@@ -593,12 +668,17 @@ Kousathanas, A., Oliver, F., Halligan, D.~L., and Keightley, P.~D. (2011).
   protein-coding genes in wild house mice.
 \newblock {\em Mol Biol Evol}, 28(3):1183--91.
 
+\bibitem[Kreitman, 1996]{RN386}
+Kreitman, M. (1996).
+\newblock The neutral theory is dead. long live the neutral theory.
+\newblock {\em BioEssays}, 18(8):678--683.
+
 \bibitem[Laenen et~al., 2018]{RN368}
 Laenen, B., Tedder, A., Nowak, M.~D., Torang, P., Wunder, J., Wotzel, S.,
   Steige, K.~A., Kourmpetis, Y., Odong, T., Drouzas, A.~D., Bink, M., Agren,
   J., Coupland, G., and Slotte, T. (2018).
 \newblock Demography and mating system shape the genome-wide impact of
-  purifying selection in arabis alpina.
+  purifying selection in \textit{{A}rabis alpina}.
 \newblock {\em Proc Natl Acad Sci U S A}, 115(4):816--821.
 
 \bibitem[Lesecque et~al., 2014]{RN222}
@@ -614,14 +694,14 @@ Lewontin, R. (1974).
 
 \bibitem[Li and Durbin, 2009]{RN251}
 Li, H. and Durbin, R. (2009).
-\newblock Fast and accurate short read alignment with burrows-wheeler
+\newblock Fast and accurate short read alignment with {B}urrows-{W}heeler
   transform.
 \newblock {\em Bioinformatics}, 25(14):1754--60.
 
 \bibitem[Li et~al., 2009]{RN252}
 Li, H., Handsaker, B., Wysoker, A., Fennell, T., Ruan, J., Homer, N., Marth,
   G., Abecasis, G., Durbin, R., and Genome Project Data~Processing, S. (2009).
-\newblock The sequence alignment/map format and samtools.
+\newblock The sequence alignment/map format and {SAM}tools.
 \newblock {\em Bioinformatics}, 25(16):2078--9.
 
 \bibitem[Liu et~al., 2014]{RN266}
@@ -634,13 +714,14 @@ Liu, E.~Y., Morgan, A.~P., Chesler, E.~J., Wang, W., Churchill, G.~A., and
 \bibitem[Lowe et~al., 2011]{RN353}
 Lowe, C.~B., Kellis, M., Siepel, A., Raney, B.~J., Clamp, M., Salama, S.~R.,
   Kingsley, D.~M., Lindblad-Toh, K., and Haussler, D. (2011).
-\newblock Three periods of regularory innovation during vertebrate evolution.
+\newblock Three periods of regulatory innovation during vertebrate evolution.
 \newblock {\em Science}, 333(6045):pp. 1019--1024.
 
 \bibitem[Macpherson et~al., 2007]{RN289}
 Macpherson, J.~M., Sella, G., Davis, J.~C., and Petrov, D.~A. (2007).
 \newblock Genomewide spatial correspondence between nonsynonymous divergence
-  and neutral polymorphism reveals extensive adaptation in drosophila.
+  and neutral polymorphism reveals extensive adaptation in
+  \textit{{D}rosophila}.
 \newblock {\em Genetics}, 177(4):2083--99.
 
 \bibitem[Maynard~Smith and Haigh, 1974]{RN124}
@@ -650,7 +731,7 @@ Maynard~Smith, J. and Haigh, J. (1974).
 
 \bibitem[McDonald and Kreitman, 1991]{RN293}
 McDonald, J.~M. and Kreitman, M. (1991).
-\newblock Adaptive protein evolution at the adh locus in drosophila.
+\newblock Adaptive protein evolution at the adh locus in \textit{{D}rosophila}.
 \newblock {\em Nature}, 351.
 
 \bibitem[McDonald et~al., 2016]{RN345}
@@ -685,14 +766,14 @@ Messer, P.~W. (2013).
 
 \bibitem[Messer and Petrov, 2013]{RN149}
 Messer, P.~W. and Petrov, D.~A. (2013).
-\newblock Frequent adaptation and the mcdonald-kreitman test.
+\newblock Frequent adaptation and the {M}c{D}onald-{K}reitman test.
 \newblock {\em Proc Natl Acad Sci}, 110(21):8615--8620.
 
 \bibitem[Myers et~al., 2010]{RN262}
 Myers, S.~R., Bowden, R., Tumian, A., Bontrop, R.~E., Freeman, C., MacFie,
   T.~S., McVean, G., and Donnelly, P. (2010).
-\newblock Drive against hotspot motifs in primates implicates the prdm9 gene in
-  meiotic recombination.
+\newblock Drive against hotspot motifs in primates implicates the {PRDM9} gene
+  in meiotic recombination.
 \newblock {\em Science}, 327.
 
 \bibitem[Nam et~al., 2017]{RN365}
@@ -707,6 +788,11 @@ Nordborg, M., Charlesworth, B., and Charlesworth, D. (1996).
 \newblock The effect of recombination on background selection.
 \newblock {\em Genetical Research}, 67:159--174.
 
+\bibitem[Orr and Betancourt, 2001]{RN395}
+Orr, H.~A. and Betancourt, A.~J. (2001).
+\newblock Haldane's sieve and adaptation from the standing genetic variation.
+\newblock {\em Genetics}, 157:875--884.
+
 \bibitem[Otto and Whitlock, 1997]{RN350}
 Otto, S.~P. and Whitlock, M.~C. (1997).
 \newblock The probability of fixation in populations of changing size.
@@ -714,7 +800,8 @@ Otto, S.~P. and Whitlock, M.~C. (1997).
 
 \bibitem[Paigen and Petkov, 2010]{RN247}
 Paigen, K. and Petkov, P. (2010).
-\newblock Mammalian recombination hot spots: properties, control and evolution.
+\newblock Mammalian recombination hot spots: {P}roperties, control and
+  evolution.
 \newblock {\em Nat Rev Genet}, 11(3):221--33.
 
 \bibitem[Paigen et~al., 2008]{RN263}
@@ -722,6 +809,12 @@ Paigen, K., Szatkiewicz, J.~P., Sawyer, K., Leahy, N., Parvanov, E.~D., Ng,
   S.~H., Graber, J.~H., Broman, K.~W., and Petkov, P.~M. (2008).
 \newblock The recombinational anatomy of a mouse chromosome.
 \newblock {\em PLoS Genet}, 4(7):e1000119.
+
+\bibitem[Pennycuik et~al., 1986]{RN392}
+Pennycuik, P.~R., Johnston, P.~G., Westwood, N.~H., and Reisner, A.~H. (1986).
+\newblock Variation in numbers in a house mouse population housed in a large
+  outdoor enclosure.
+\newblock {\em Journal of Animal Ecology}, 55(1):371--391.
 
 \bibitem[Phung et~al., 2016]{RN332}
 Phung, T.~N., Huber, C.~D., and Lohmueller, K.~E. (2016).
@@ -737,14 +830,19 @@ Pritchard, J.~K., Pickrell, J.~K., and Coop, G. (2010).
 
 \bibitem[Quinlan and Hall, 2010]{RN279}
 Quinlan, A.~R. and Hall, I.~M. (2010).
-\newblock Bedtools: a flexible suite of utilities for comparing genomic
+\newblock {BEDT}ools: a flexible suite of utilities for comparing genomic
   features.
 \newblock {\em Bioinformatics}, 26(6):841--842.
+
+\bibitem[{R Core Team}, 2017]{RN666}
+{R Core Team} (2017).
+\newblock {\em R: A Language and Environment for Statistics}.
+\newblock R Foundation for Statistical Computing, Vienna, Austria.
 
 \bibitem[Sattath et~al., 2011]{RN167}
 Sattath, S., Elyashiv, E., Kolodny, O., Rinott, Y., and Sella, G. (2011).
 \newblock Pervasive adaptive protein evolution apparent in diversity patterns
-  around amino acid substitutions in drosophila simulans.
+  around amino acid substitutions in \textit{{D}rosophila simulans}.
 \newblock {\em PLoS Genet}, 7(2):e1001302.
 
 \bibitem[Savisaar and Hurst, 2016]{RN369}
@@ -760,7 +858,7 @@ Schneider, A., Charlesworth, B., Eyre-Walker, A., and Keightley, P.~D. (2011).
 
 \bibitem[Schrider and Kern, 2016]{RN337}
 Schrider, D.~R. and Kern, A.~D. (2016).
-\newblock S/hic: Robust identification of soft and hard sweeps using machine
+\newblock {S/HIC}: Robust identification of soft and hard sweeps using machine
   learning.
 \newblock {\em PLoS Genet}, 12(3):e1005928.
 
@@ -771,7 +869,7 @@ Schrider, D.~R. and Kern, A.~D. (2017).
 
 \bibitem[Schrider and Kern, 2018]{RN377}
 Schrider, D.~R. and Kern, A.~D. (2018).
-\newblock Supervised machine learning for population genetics: A new paradigm.
+\newblock Supervised machine learning for population genetics: a new paradigm.
 \newblock {\em Trends Genet}, 34(4):301--312.
 
 \bibitem[Schrider et~al., 2015]{RN366}
@@ -784,7 +882,7 @@ Schrider, D.~R., Mendes, F.~K., Hahn, M.~W., and Kern, A.~D. (2015).
 Schrider, R.~D., Shanku, G.~A., and Kern, D.~A. (2016).
 \newblock Effects of linked selective sweeps on demographic inference and model
   selection.
-\newblock {\em Genetics}, (Early Online Access).
+\newblock {\em Genetics}, 204(3):1207--1223.
 
 \bibitem[Schwartz et~al., 2014]{RN264}
 Schwartz, J.~J., Roach, D.~J., Thomas, J.~H., and Shendure, J. (2014).
@@ -793,7 +891,7 @@ Schwartz, J.~J., Roach, D.~J., Thomas, J.~H., and Shendure, J. (2014).
 
 \bibitem[Sella et~al., 2009]{RN171}
 Sella, G., Petrov, D.~A., Przeworski, M., and Andolfatto, P. (2009).
-\newblock Pervasive natural selection in the drosophila genome?
+\newblock Pervasive natural selection in the \textit{{D}rosophila} genome?
 \newblock {\em PLoS Genet}, 19(6).
 
 \bibitem[Siepel et~al., 2005]{RN376}
@@ -834,20 +932,20 @@ Smukowski, C.~S. and Noor, M.~A. (2011).
 \bibitem[Smukowski~Heil et~al., 2015]{RN259}
 Smukowski~Heil, C.~S., Ellison, C., Dubin, M., and Noor, M.~A. (2015).
 \newblock Recombining without hotspots: A comprehensive evolutionary portrait
-  of recombination in two closely related species of drosophila.
+  of recombination in two closely related species of \textit{{D}rosophila}.
 \newblock {\em Genome Biol Evol}, 7(10):2829--42.
 
 \bibitem[Stephan, 2010]{RN339}
 Stephan, W. (2010).
 \newblock Genetic hitchhiking versus background selection: the controversy and
   its implications.
-\newblock {\em Philos Trans R Soc Lond B Biol Sci}, 365(1544):1245--53.
+\newblock {\em Phil Trans R Soc B Biol Sci}, 365(1544):1245--53.
 
 \bibitem[Stephan and Langley, 1989]{RN282}
 Stephan, W. and Langley, C.~H. (1989).
-\newblock Molecular genetic variation in the centromeric region of the x
-  chromosome in three drosohila ananassae populations. i. constrasts between
-  the vermilion and forked loci.
+\newblock Molecular genetic variation in the centromeric region of the {X}
+  chromosome in three \textit{{D}rosophila ananassae} populations. i.
+  {C}onstrasts between the \textit{vermilion} and \textit{forked} loci.
 \newblock {\em Genetics}, 121:89--99.
 
 \bibitem[Stevison et~al., 2015]{RN221}
@@ -875,18 +973,17 @@ Teschke, M., Mukabayire, O., Wiehe, T., and Tautz, D. (2008).
   the house mouse based on microsatellite scans.
 \newblock {\em Genetics}, 180:1537--1545.
 
-\bibitem[{The 1000 Genomes Project Consortium} et~al., 2015]{RN272}
-{The 1000 Genomes Project Consortium}, Auton, A., Brooks, L.~D., Durbin, R.~M.,
-  Garrison, E.~P., Kang, H.~M., Korbel, J.~O., Marchini, J.~L., McCarthy, S.,
-  McVean, G.~A., and Abecasis, G.~R. (2015).
-\newblock A global reference for human genetic variation.
-\newblock {\em Nature}, 526(7571):68--74.
-
 \bibitem[Thornton, 2014]{RN361}
 Thornton, K.~R. (2014).
-\newblock A c++ template library for efficient forward-time population genetic
-  simulation of large populations.
+\newblock A {C}++ template library for efficient forward-time population
+  genetic simulation of large populations.
 \newblock {\em Genetics}, 198(1):157--66.
+
+\bibitem[Torres et~al., 2018]{RN397}
+Torres, R., Szpiech, Z.~A., and Hernandez, R.~D. (2018).
+\newblock Human demographic history has amplified the effects of background
+  selection across the genome.
+\newblock {\em PLoS Genet}, 14(6):e1007387.
 
 \bibitem[Uchimura et~al., 2015]{RN228}
 Uchimura, A., Higuchi, M., Minakuchi, Y., Ohno, M., Toyoda, A., Fujiyama, A.,
@@ -914,14 +1011,14 @@ Wang, R.~J., Gray, M.~M., Parmenter, M.~D., Broman, K.~W., and Payseur, B.~A.
 \bibitem[Wiehe and Stephan, 1993]{RN277}
 Wiehe, T. and Stephan, W. (1993).
 \newblock Analysis of a genetic hitchhiking model, and its application to dna
-  polymorphism data from drosophila melanogaster.
+  polymorphism data from \textit{{D}rosophila melanogaster}.
 \newblock {\em Mol Biol Evol}, 10(4):842--854.
 
 \bibitem[Williamson et~al., 2014]{RN236}
 Williamson, R.~J., Josephs, E.~B., Platts, A.~E., Hazzouri, K.~M., Haudry, A.,
   Blanchette, M., and Wright, S.~I. (2014).
 \newblock Evidence for widespread positive and negative selection in coding and
-  conserved noncoding regions of capsella grandiflora.
+  conserved noncoding regions of \textit{{C}apsella grandiflora}.
 \newblock {\em PLoS Genetics}, 10(9):e1004622.
 
 \bibitem[Winckler et~al., 2005]{RN214}
@@ -938,6 +1035,13 @@ Yang, H., Wang, J.~R., Didion, J.~P., Buus, R.~J., Bell, T.~A., Welsh, C.~E.,
   McMillan, L., Churchill, G.~A., and de~Villena, F.~P. (2011).
 \newblock Subspecific origin and haplotype diversity in the laboratory mouse.
 \newblock {\em Nat Genet}, 43(7):648--55.
+
+\bibitem[Yu et~al., 2002]{RN398}
+Yu, N., Chen, C.~F., Ota, S., Jorde, L.~B., Pamilo, P., Patthy, L., Ramsay, M.,
+  Jenkins, T., Shyue, S.~K., and Li, W. (2002).
+\newblock Larger genetic differences within {A}fricans than between {A}fricans
+  and {E}uropeans.
+\newblock {\em Genetics}, 161:269--274.
 
 \bibitem[Zeng et~al., 2006]{RN146}
 Zeng, K., Fu, Y.~X., Shi, S., and Wu, C.~I. (2006).

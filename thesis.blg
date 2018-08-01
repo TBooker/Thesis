@@ -2,49 +2,48 @@ This is BibTeX, Version 0.99d (TeX Live 2014)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 The style file: apalike.bst
-Database file #1: /Users/s0784966/Dropbox/Thesis/common/MyRefs3.bib
+Database file #1: /Users/s0784966/Dropbox/Thesis/common/MyRefs4.bib
 Warning--I didn't find a database entry for "RN113"
 Warning--I didn't find a database entry for "RN323"
-Warning--there's a number but no volume in RN242
-You've used 157 entries,
+You've used 175 entries,
             1935 wiz_defined-function locations,
-            1411 strings with 30942 characters,
-and the built_in function-call counts, 71029 in all, are:
-= -- 6517
-> -- 3949
-< -- 65
-+ -- 1468
-- -- 1400
-* -- 6792
-:= -- 12630
-add.period$ -- 471
-call.type$ -- 157
-change.case$ -- 1481
-chr.to.int$ -- 155
-cite$ -- 158
-duplicate$ -- 2181
-empty$ -- 4456
-format.name$ -- 1643
-if$ -- 13540
-int.to.chr$ -- 3
+            1523 strings with 33855 characters,
+and the built_in function-call counts, 78231 in all, are:
+= -- 7213
+> -- 4216
+< -- 78
++ -- 1565
+- -- 1488
+* -- 7432
+:= -- 13877
+add.period$ -- 525
+call.type$ -- 175
+change.case$ -- 1613
+chr.to.int$ -- 172
+cite$ -- 175
+duplicate$ -- 2435
+empty$ -- 4992
+format.name$ -- 1761
+if$ -- 14960
+int.to.chr$ -- 4
 int.to.str$ -- 0
-missing$ -- 161
-newline$ -- 788
-num.names$ -- 471
-pop$ -- 1133
+missing$ -- 181
+newline$ -- 878
+num.names$ -- 525
+pop$ -- 1230
 preamble$ -- 1
-purify$ -- 1485
+purify$ -- 1619
 quote$ -- 0
-skip$ -- 1641
+skip$ -- 1827
 stack$ -- 0
-substring$ -- 4704
-swap$ -- 157
+substring$ -- 5301
+swap$ -- 176
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 934
-warning$ -- 1
-while$ -- 450
+type$ -- 1036
+warning$ -- 0
+while$ -- 504
 width$ -- 0
-write$ -- 2037
-(There were 3 warnings)
+write$ -- 2272
+(There were 2 warnings)
