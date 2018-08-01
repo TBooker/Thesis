@@ -72,7 +72,7 @@
 \contentsline {subsubsection}{v) Patterns of diversity around sites that have recently experienced a substitution}{84}
 \contentsline {section}{\numberline {3.5}Discussion}{86}
 \contentsline {subsection}{\numberline {3.5.1}Estimating selection parameters based on the uSFS}{87}
-\contentsline {subsection}{\numberline {3.5.2}Patterns of diversity and Tajima’s D around functional elements}{88}
+\contentsline {subsection}{\numberline {3.5.2}Patterns of diversity and Tajima's D around functional elements}{88}
 \contentsline {subsection}{\numberline {3.5.3}Rates of nucleotide substitutions in simulations}{89}
 \contentsline {subsection}{\numberline {3.5.4}Do our results provide evidence for strongly selected advantageous mutations?}{90}
 \contentsline {subsection}{\numberline {3.5.5}Limitations of the study}{94}
@@ -122,4 +122,4 @@
 \contentsline {subsection}{\numberline {C.1.3}Ancestral effective population size, Ne-anc – Model B}{201}
 \contentsline {section}{\numberline {C.2}Supplementary Tables and Figures}{202}
 \contentsline {chapter}{\numberline {D}Estimating sweep parameters}{212}
-\contentsline {section}{\numberline {D.1}Supplementary Material}{213}
+\contentsline {section}{\numberline {D.1}Supplementary Material}{212}
