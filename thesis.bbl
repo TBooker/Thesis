@@ -195,17 +195,17 @@ Charlesworth, D. (2006).
   regions.
 \newblock {\em PLoS Genet}, 2(4):e64.
 
-\bibitem[Charlesworth et~al., 1995a]{RN133}
+\bibitem[Charlesworth et~al., 1995a]{RN234}
 Charlesworth, D., Charlesworth, B., and Morgan, M.~T. (1995a).
 \newblock The pattern of neutral molecular variation under the background
   selection model.
-\newblock {\em Genetics}, 141.
+\newblock {\em Genetics}, 141:1619--1632.
 
-\bibitem[Charlesworth et~al., 1995b]{RN234}
+\bibitem[Charlesworth et~al., 1995b]{RN133}
 Charlesworth, D., Charlesworth, B., and Morgan, M.~T. (1995b).
 \newblock The pattern of neutral molecular variation under the background
   selection model.
-\newblock {\em Genetics}, 141:1619--1632.
+\newblock {\em Genetics}, 141.
 
 \bibitem[Chia et~al., 2012]{RN273}
 Chia, J.~M., Song, C., Bradbury, P.~J., Costich, D., de~Leon, N., Doebley, J.,
@@ -336,6 +336,11 @@ Elyashiv, E., Sattath, S., Hu, T.~T., Strutsovsky, A., McVicker, G.,
 \newblock A genomic map of the effects of linked selection in
   \textit{{D}rosophila}.
 \newblock {\em PLoS Genet}, 12(8):e1006130.
+
+\bibitem[Enard et~al., 2016]{RN777}
+Enard, D., Cai, L., Gwennap, C., and Petrov, D.~A. (2016).
+\newblock Viruses are a dominant driver of protein adapation in mammals.
+\newblock {\em eLife}, 5(e12469).
 
 \bibitem[Enard et~al., 2014]{RN237}
 Enard, D., Messer, P.~W., and Petrov, D.~A. (2014).
@@ -612,6 +617,11 @@ Kern, A.~D. and Hahn, M.~W. (2018).
 Kim, Y. (2006).
 \newblock Allele frequency distribution under recurrent selective sweeps.
 \newblock {\em Genetics}, 172(3):1967--78.
+
+\bibitem[Kim and Nielsen, 2004]{RN319}
+Kim, Y. and Nielsen, R. (2004).
+\newblock Linkage disequilibrium as a signature of selective sweeps.
+\newblock {\em Genetics}, 167(3):1513--24.
 
 \bibitem[Kim and Stephan, 2000]{RN349}
 Kim, Y. and Stephan, W. (2000).
@@ -1042,11 +1052,5 @@ Yu, N., Chen, C.~F., Ota, S., Jorde, L.~B., Pamilo, P., Patthy, L., Ramsay, M.,
 \newblock Larger genetic differences within {A}fricans than between {A}fricans
   and {E}uropeans.
 \newblock {\em Genetics}, 161:269--274.
-
-\bibitem[Zeng et~al., 2006]{RN146}
-Zeng, K., Fu, Y.~X., Shi, S., and Wu, C.~I. (2006).
-\newblock Statistical tests for detecting positive selection by utilizing
-  high-frequency variants.
-\newblock {\em Genetics}, 174(3):1431--9.
 
 \end{thebibliography}

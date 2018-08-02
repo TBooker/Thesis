@@ -3,47 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 The style file: apalike.bst
 Database file #1: /Users/s0784966/Dropbox/Thesis/common/MyRefs4.bib
-Warning--I didn't find a database entry for "RN113"
-Warning--I didn't find a database entry for "RN323"
-You've used 175 entries,
+You've used 176 entries,
             1935 wiz_defined-function locations,
-            1523 strings with 33855 characters,
-and the built_in function-call counts, 78231 in all, are:
-= -- 7213
-> -- 4216
-< -- 78
-+ -- 1565
-- -- 1488
-* -- 7432
-:= -- 13877
-add.period$ -- 525
-call.type$ -- 175
-change.case$ -- 1613
-chr.to.int$ -- 172
-cite$ -- 175
-duplicate$ -- 2435
-empty$ -- 4992
-format.name$ -- 1761
-if$ -- 14960
+            1525 strings with 33918 characters,
+and the built_in function-call counts, 78560 in all, are:
+= -- 7245
+> -- 4229
+< -- 79
++ -- 1569
+- -- 1492
+* -- 7460
+:= -- 13937
+add.period$ -- 528
+call.type$ -- 176
+change.case$ -- 1620
+chr.to.int$ -- 173
+cite$ -- 176
+duplicate$ -- 2448
+empty$ -- 5014
+format.name$ -- 1768
+if$ -- 15023
 int.to.chr$ -- 4
 int.to.str$ -- 0
-missing$ -- 181
-newline$ -- 878
-num.names$ -- 525
-pop$ -- 1230
+missing$ -- 182
+newline$ -- 883
+num.names$ -- 528
+pop$ -- 1234
 preamble$ -- 1
-purify$ -- 1619
+purify$ -- 1626
 quote$ -- 0
-skip$ -- 1827
+skip$ -- 1839
 stack$ -- 0
-substring$ -- 5301
-swap$ -- 176
+substring$ -- 5316
+swap$ -- 177
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1036
+type$ -- 1042
 warning$ -- 0
-while$ -- 504
+while$ -- 506
 width$ -- 0
-write$ -- 2272
-(There were 2 warnings)
+write$ -- 2285
